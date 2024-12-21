@@ -1,0 +1,11 @@
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\TerminalLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\TerminalLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\MIIPL.Utilities.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\TerminalController.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\MIIPL.Utilities.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\bin\Debug\TerminalController.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\obj\Debug\TerminalLogger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\obj\Debug\TerminalLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\ConsoleApplication1 - Copy\TerminalLogger\obj\Debug\TerminalLogger.pdb

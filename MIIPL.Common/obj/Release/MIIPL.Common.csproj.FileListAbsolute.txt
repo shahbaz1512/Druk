@@ -1,0 +1,35 @@
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Common\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Common\obj\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\bin\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Common\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Common\obj\Release\MIIPL.Common.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Common\obj\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Common\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Common\obj\Release\MIIPL.Common.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Common\obj\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Common\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Common\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Common\obj\Release\MIIPL.Common.pdb

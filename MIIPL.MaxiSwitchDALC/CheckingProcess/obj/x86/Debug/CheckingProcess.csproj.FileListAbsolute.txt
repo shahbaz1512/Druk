@@ -1,0 +1,7 @@
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\bin\Debug\CheckingProcess.exe
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\bin\Debug\CheckingProcess.pdb
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\obj\x86\Debug\CheckingProcess.exe
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\obj\x86\Debug\CheckingProcess.pdb
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\bin\Debug\DALC.dll
+D:\New Switch\Live Code\New Project DALC\DALC\CheckingProcess\bin\Debug\DALC.pdb

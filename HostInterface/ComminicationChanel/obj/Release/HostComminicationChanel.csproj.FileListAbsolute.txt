@@ -1,0 +1,74 @@
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\DALC.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\ISwitchCommunication.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\HSMLogger.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\DALC.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\DALC.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\HSMLogger.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\ISwitchCommunication.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\HSMLogger.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\DALC.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csprojResolveAssemblyReference.cache
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.dll
+D:\Agency working portal\Agency Switch\AGENCY BANKING\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\HostComminicationChanel.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\ComminicationChanel\obj\Release\TransactionRouter.CommunicationChanel.pdb

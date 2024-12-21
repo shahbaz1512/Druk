@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://service.bob.ramis.cmcltd.com/" targetNamespace="http://service.bob.ramis.cmcltd.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="BobFaultBean" type="tns:BobFaultBean" />
+  <xs:element name="depositChallanMaster" type="tns:DepositChallanMaster" />
+  <xs:element name="depositVoucherMaster" type="tns:DepositVoucherMaster" />
+  <xs:element name="getChallanDetails" type="tns:getChallanDetails" />
+  <xs:element name="getChallanDetailsResponse" type="tns:getChallanDetailsResponse" />
+  <xs:element name="getDepositVoucherDetails" type="tns:getDepositVoucherDetails" />
+  <xs:element name="getDepositVoucherDetailsResponse" type="tns:getDepositVoucherDetailsResponse" />
+  <xs:element name="init" type="tns:init" />
+  <xs:element name="initResponse" type="tns:initResponse" />
+  <xs:element name="instrumentDetail" type="tns:InstrumentDetail" />
+  <xs:element name="sendAcknowledgement" type="tns:sendAcknowledgement" />
+  <xs:element name="sendPaymentStatus" type="tns:sendPaymentStatus" />
+  <xs:element name="sendPaymentStatusResponse" type="tns:sendPaymentStatusResponse" />
+  <xs:complexType name="sendPaymentStatus">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="depVouNo" type="xs:string" />
+      <xs:element name="status" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sendPaymentStatusResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="BobFaultBean">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="faultCode" type="xs:string" />
+      <xs:element minOccurs="0" name="faultString" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="init">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="initResponse">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="sendAcknowledgement">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="responseToken" type="xs:string" />
+      <xs:element name="status" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getDepositVoucherDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="depVouNo" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getDepositVoucherDetailsResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:DepositVoucherMaster" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DepositVoucherMaster">
+    <xs:sequence>
+      <xs:element name="depositVoucherNo" type="xs:string" />
+      <xs:element name="tpn" type="xs:string" />
+      <xs:element name="name" type="xs:string" />
+      <xs:element name="depVouDueDate" type="xs:dateTime" />
+      <xs:element name="depVouDueAmount" type="xs:decimal" />
+      <xs:element name="responseToken" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getChallanDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="depChlnNo" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getChallanDetailsResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:DepositChallanMaster" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DepositChallanMaster">
+    <xs:sequence>
+      <xs:element name="depositChallanNumber" type="xs:string" />
+      <xs:element name="agencyCode" type="xs:string" />
+      <xs:element name="depositDate" type="xs:dateTime" />
+      <xs:element name="depositChallanAmount" type="xs:decimal" />
+      <xs:element name="paymentMode" type="xs:string" />
+      <xs:element name="responseToken" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="instrumentDetails" type="tns:InstrumentDetail" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="InstrumentDetail">
+    <xs:sequence>
+      <xs:element name="instrumentNumber" type="xs:string" />
+      <xs:element name="instrumentDate" type="xs:dateTime" />
+      <xs:element name="instrumentAmount" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

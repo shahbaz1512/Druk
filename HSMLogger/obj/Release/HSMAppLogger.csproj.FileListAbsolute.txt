@@ -1,0 +1,58 @@
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\bin\Release\HSMLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\bin\Release\HSMLogger.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\obj\Release\HSMLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\obj\Release\HSMLogger.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\HSMLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\HSMLogger.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\HSMLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\HSMLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\bin\Release\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HSMLogger\obj\Release\HSMLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\bin\Release\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\bin\Release\HSMLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\bin\Release\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\bin\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\bin\Release\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HSMLogger\obj\Release\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\bin\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\bin\Release\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\obj\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HSMLogger\obj\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\bin\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\obj\Release\HSMAppLogger.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\obj\Release\HSMAppLogger.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\obj\Release\HSMAppLogger.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\obj\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HSMLogger\obj\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\bin\Release\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\obj\Release\HSMAppLogger.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\obj\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HSMLogger\obj\Release\HSMLogger.pdb

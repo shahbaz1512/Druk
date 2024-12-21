@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://service.bob.ramis.cmcltd.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="BobIntegrationService" targetNamespace="http://service.bob.ramis.cmcltd.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="https://103.7.255.29:8443/bobIntegrationService?xsd=1" namespace="http://service.bob.ramis.cmcltd.com/" />
+    </xsd:schema>
+    <xsd:schema>
+      <xsd:import schemaLocation="https://103.7.255.29:8443/bobIntegrationService?xsd=2" namespace="http://service.bob.ramis.cmcltd.com" />
+    </xsd:schema>
+  </types>
+  <message name="init">
+    <part name="parameters" element="tns:init" />
+  </message>
+  <message name="initResponse">
+    <part name="parameters" element="tns:initResponse" />
+  </message>
+  <message name="getDepositVoucherDetails">
+    <part name="parameters" element="tns:getDepositVoucherDetails" />
+  </message>
+  <message name="getDepositVoucherDetailsResponse">
+    <part name="parameters" element="tns:getDepositVoucherDetailsResponse" />
+  </message>
+  <message name="BobException">
+    <part xmlns:ns1="http://service.bob.ramis.cmcltd.com" name="fault" element="ns1:BobFaultBean" />
+  </message>
+  <message name="getChallanDetails">
+    <part name="parameters" element="tns:getChallanDetails" />
+  </message>
+  <message name="getChallanDetailsResponse">
+    <part name="parameters" element="tns:getChallanDetailsResponse" />
+  </message>
+  <message name="sendPaymentStatus">
+    <part name="parameters" element="tns:sendPaymentStatus" />
+  </message>
+  <message name="sendPaymentStatusResponse">
+    <part name="parameters" element="tns:sendPaymentStatusResponse" />
+  </message>
+  <message name="sendAcknowledgement">
+    <part name="parameters" element="tns:sendAcknowledgement" />
+  </message>
+  <portType name="BobIntegrationService">
+    <operation name="init">
+      <input wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/initRequest" message="tns:init" />
+      <output wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/initResponse" message="tns:initResponse" />
+    </operation>
+    <operation name="getDepositVoucherDetails">
+      <input wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getDepositVoucherDetailsRequest" message="tns:getDepositVoucherDetails" />
+      <output wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getDepositVoucherDetailsResponse" message="tns:getDepositVoucherDetailsResponse" />
+      <fault wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getDepositVoucherDetails/Fault/BobException" name="BobException" message="tns:BobException" />
+    </operation>
+    <operation name="getChallanDetails">
+      <input wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getChallanDetailsRequest" message="tns:getChallanDetails" />
+      <output wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getChallanDetailsResponse" message="tns:getChallanDetailsResponse" />
+      <fault wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/getChallanDetails/Fault/BobException" name="BobException" message="tns:BobException" />
+    </operation>
+    <operation name="sendPaymentStatus">
+      <input wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/sendPaymentStatusRequest" message="tns:sendPaymentStatus" />
+      <output wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/sendPaymentStatusResponse" message="tns:sendPaymentStatusResponse" />
+      <fault wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/sendPaymentStatus/Fault/BobException" name="BobException" message="tns:BobException" />
+    </operation>
+    <operation name="sendAcknowledgement">
+      <input wsam:Action="http://service.bob.ramis.cmcltd.com/BobIntegrationService/sendAcknowledgement" message="tns:sendAcknowledgement" />
+    </operation>
+  </portType>
+  <binding name="BobIntegrationServicePortBinding" type="tns:BobIntegrationService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="init">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getDepositVoucherDetails">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="BobException">
+        <soap:fault use="literal" name="BobException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="getChallanDetails">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="BobException">
+        <soap:fault use="literal" name="BobException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="sendPaymentStatus">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="BobException">
+        <soap:fault use="literal" name="BobException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="sendAcknowledgement">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+    </operation>
+  </binding>
+  <service name="BobIntegrationService">
+    <port name="BobIntegrationServicePort" binding="tns:BobIntegrationServicePortBinding">
+      <soap:address location="https://103.7.255.29:8443/bobIntegrationService" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://fcubs.ofss.com/service/FCUBSAccFinService" elementFormDefault="qualified" targetNamespace="http://fcubs.ofss.com/service/FCUBSAccFinService" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="FINANCIALCYCLEQUERY_IOFS_REQ">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Financial-Cycle-IO" type="tns:FinancialCycle-PK-Type" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FINANCIALCYCLEQUERY_IOFS_RES">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="Financial-Cycle-IO" type="tns:FinancialCycle-PK-Type" />
+              <xs:element minOccurs="0" name="Financial-Cycle-Full" type="tns:FinancialCycle-Full-Type" />
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="FCUBS_ERROR_RESP" type="tns:ERRORType" />
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="FCUBS_WARNING_RESP" type="tns:WARNINGType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QUERYFINANCIALCYCLE_IOFS_REQ">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Stfincle-IO" type="tns:FinancialCycle-Query-IO-Type" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QUERYFINANCIALCYCLE_IOFS_RES">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="Stfincle-IO" type="tns:FinancialCycle-Query-IO-Type" />
+              <xs:element minOccurs="0" name="Stfincle-Full" type="tns:FinancialCycle-Full-Type" />
+              <xs:element minOccurs="0" name="FCUBS_ERROR_RESP" type="tns:ERRORType" />
+              <xs:element minOccurs="0" name="FCUBS_WARNING_RESP" type="tns:WARNINGType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="REQUESTACCSTMT_IOFS_REQ">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustAccStmtAdhocRequest" type="tns:AdhocStmtReqType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="REQUESTACCSTMT_IOFS_RES">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CustAccStmtAdhocRequest" type="tns:AdhocStmtResType" />
+              <xs:element minOccurs="0" name="FCUBS_ERROR_RESP" type="tns:ERRORType" />
+              <xs:element minOccurs="0" name="FCUBS_WARNING_RESP" type="tns:WARNINGType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="FCUBS_HEADERType">
+    <xs:sequence>
+      <xs:element name="SOURCE" type="xs:string" />
+      <xs:element name="UBSCOMP" type="tns:UBSCOMPType" />
+      <xs:element minOccurs="0" name="MSGID" type="xs:string" />
+      <xs:element minOccurs="0" name="CORRELID" type="xs:string" />
+      <xs:element name="USERID" type="xs:string" />
+      <xs:element name="BRANCH" type="xs:string" />
+      <xs:element minOccurs="0" name="MODULEID" type="xs:string" />
+      <xs:element name="SERVICE" nillable="true" type="xs:string" />
+      <xs:element name="OPERATION" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SOURCE_OPERATION" type="xs:string" />
+      <xs:element minOccurs="0" name="SOURCE_USERID" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINATION" type="xs:string" />
+      <xs:element minOccurs="0" name="MULTITRIPID" type="xs:string" />
+      <xs:element minOccurs="0" name="FUNCTIONID" type="xs:string" />
+      <xs:element minOccurs="0" name="ACTION" type="xs:string" />
+      <xs:element minOccurs="0" name="MSGSTAT" type="tns:MsgStatType" />
+      <xs:element minOccurs="0" name="PASSWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDL">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" name="PARAM">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="NAME" type="xs:string" />
+                  <xs:element name="VALUE" type="xs:string" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FinancialCycle-PK-Type">
+    <xs:sequence>
+      <xs:element name="FINCLE" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FinancialCycle-Full-Type">
+    <xs:sequence>
+      <xs:element name="FINCLE" type="xs:string" />
+      <xs:element name="FCSTDT" type="xs:date" />
+      <xs:element minOccurs="0" name="DESCRIPTION" type="xs:string" />
+      <xs:element name="FC_END_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="MAKER" type="xs:string" />
+      <xs:element minOccurs="0" name="MAKERSTAMP" type="xs:string" />
+      <xs:element minOccurs="0" name="CHECKER" type="xs:string" />
+      <xs:element minOccurs="0" name="CHECKERSTAMP" type="xs:string" />
+      <xs:element minOccurs="0" name="MODNO" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TXNSTAT" type="xs:string" />
+      <xs:element minOccurs="0" name="AUTHSTAT" type="xs:string" />
+      <xs:element maxOccurs="unbounded" name="Stprdcds">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="PERIOD_CODE" type="xs:string" />
+            <xs:element minOccurs="0" name="FC_START_DATE" type="xs:date" />
+            <xs:element name="FC_END_DATE" type="xs:date" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="UDFDETAILS" type="tns:UDFDETAILSType2" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="UDFDETAILSType2">
+    <xs:sequence>
+      <xs:element name="FLDNAM" type="xs:string" />
+      <xs:element minOccurs="0" name="FLDVAL" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ERRORType">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="ERROR" type="tns:ERRORDETAILSType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ERRORDETAILSType">
+    <xs:sequence>
+      <xs:element name="ECODE" type="xs:string" />
+      <xs:element name="EDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="WARNINGType">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="WARNING" type="tns:WARNINGDETAILSType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="WARNINGDETAILSType">
+    <xs:sequence>
+      <xs:element name="WCODE" type="xs:string" />
+      <xs:element name="WDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AdhocStmtResType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element name="DCN" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AdhocStmtReqType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="FRMDT" type="xs:date" />
+      <xs:element minOccurs="0" name="TODT" type="xs:date" />
+      <xs:element minOccurs="0" name="STMTTYPE" type="tns:StmtType" />
+      <xs:element minOccurs="0" name="BALANCETYPE" type="tns:BalanceType" />
+      <xs:element minOccurs="0" name="APPLYCHG" type="tns:YesNoType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FinancialCycle-Query-IO-Type">
+    <xs:sequence>
+      <xs:element name="FINCLE" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AmtAndDateType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ACY_OPENING_BAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_OPEN_BAL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="ACY_TODAY_TOVER_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_TODAY_TOVER_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LCY_OPENING_BAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_LCY_OPEN_BAL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="LCY_TODAY_TOVER_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LCY_TODAY_TOVER_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_TANK_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_TANK_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_TANK_UNCOLLECTED" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_TANK_UNCOLLECTED" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="LCY_TANK_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LCY_TANK_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LCY_CURR_BALANCE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_LCY_CURR_BAL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="ACY_CURR_BALANCE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_CURR_BAL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="ACY_UNCOLLECTED" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_UNCOLLECTED" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="WITHDRAWABLE_UNCOLLED_FUND" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_WITHDRAWABLE_UNCOLLED_FUND" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="ACY_BLOCKED_AMOUNT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RECEIVABLE_AMOUNT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_AVL_BAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_AVL_BAL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="DIS_UNUTILIZED_AMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DIS_TOT_AVL_AMOUNT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_TOT_AVL_AMOUNT" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="ACY_ACCRUED_DR_IC" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_ACCRUED_CR_IC" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DR_INT_DUE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CHG_DUE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_UNCOLLECTED" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_TANK_DR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_TANK_CR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ACY_UNAUTH_TANK_UNCOLLECTED" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DC_ACY_UNAUTH_TANK_UNCOL" type="tns:DrCrType" />
+      <xs:element minOccurs="0" name="DATE_LAST_DR" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="DATE_LAST_CR" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="DATE_LAST_DR_ACTIVITY" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="DATE_LAST_CR_ACTIVITY" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="Turnovers">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ACY_MTD_TOVER_DR" type="xs:anyType" />
+            <xs:element minOccurs="0" name="ACY_MTD_TOVER_CR" type="xs:anyType" />
+            <xs:element minOccurs="0" name="LCY_MTD_TOVER_DR" type="xs:anyType" />
+            <xs:element minOccurs="0" name="LCY_MTD_TOVER_CR" type="xs:anyType" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ChgDetailsType">
+    <xs:sequence>
+      <xs:element name="CHGPROD" type="xs:string" />
+      <xs:element name="WAIVEPROD" type="tns:YesNoType" />
+      <xs:element name="PRODMAPSTAT" type="tns:RecStatType" />
+      <xs:element name="MINAMT" type="xs:decimal" />
+      <xs:element name="MAXAMT" type="xs:decimal" />
+      <xs:element name="FREETXN" type="xs:integer" />
+      <xs:element minOccurs="0" name="PRDDESC" type="xs:string" />
+      <xs:element minOccurs="0" name="CHGCCY" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Chgslabs">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="SLABAMT" type="xs:anyType" />
+            <xs:element minOccurs="0" name="CHGAMT" type="xs:anyType" />
+            <xs:element minOccurs="0" name="CHGRATE" type="xs:decimal" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccSigDetailsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ACCMSG" type="xs:string" />
+      <xs:element minOccurs="0" name="MINNOSIG" type="xs:integer" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Sigdets">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="SIGID" type="xs:anyType" />
+            <xs:element minOccurs="0" name="SIGTYPE" type="xs:string" />
+            <xs:element name="SOLOSIG" type="xs:integer" />
+            <xs:element minOccurs="0" name="APPROVLIMIT" type="xs:anyType" />
+            <xs:element minOccurs="0" name="SIGMSG" type="xs:string" />
+            <xs:element minOccurs="0" name="SIGNAME" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="IntProdMapType">
+    <xs:sequence>
+      <xs:element name="INTPROD" type="xs:string" />
+      <xs:element name="WAIVEPROD" type="tns:YesNoType" />
+      <xs:element name="GENUDECHNGADV" type="tns:YesNoType" />
+      <xs:element name="PRODMAPSTAT" type="tns:YesNoType" />
+      <xs:element name="UDECCY" type="xs:string" />
+      <xs:element name="ILPRODUCT" type="tns:YesNoType" />
+      <xs:element name="DISPILTYPE" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Inteffdtmap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="UDEEFFDT" type="xs:anySimpleType" />
+            <xs:element name="EFFDTMAPSTAT" type="xs:anyType" />
+            <xs:element minOccurs="0" maxOccurs="unbounded" name="Intsde" type="tns:IntsdeType" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="IntsdeType">
+    <xs:sequence>
+      <xs:element name="UDEID" type="xs:string" />
+      <xs:element minOccurs="0" name="UDEVALUE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RATECODE" type="xs:string" />
+      <xs:element minOccurs="0" name="TDRATECODE" type="xs:string" />
+      <xs:element minOccurs="0" name="RATEFLAG" type="tns:RateFlgType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="IntDetailsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CALCACC" type="xs:string" />
+      <xs:element minOccurs="0" name="BOOKACC" type="xs:string" />
+      <xs:element minOccurs="0" name="HASIS" type="xs:string" />
+      <xs:element minOccurs="0" name="INTSTARTDT" type="xs:date" />
+      <xs:element minOccurs="0" name="BOOKACCBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="DRCRADV" type="xs:string" />
+      <xs:element minOccurs="0" name="CHGBOOKACCBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="CHGBOOKACC" type="xs:string" />
+      <xs:element minOccurs="0" name="CHGSTARTDT" type="xs:date" />
+      <xs:element minOccurs="0" name="INTSTMTREQ" type="tns:YesNoType" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Intprodmap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="WAIVEPROD" type="xs:string" />
+            <xs:element minOccurs="0" name="GENUDECHNGADV" type="xs:string" />
+            <xs:element minOccurs="0" name="INTPROD" type="xs:string" />
+            <xs:element minOccurs="0" name="PRODMAPSTAT" type="xs:string" />
+            <xs:element minOccurs="0" name="UDECCY" type="xs:string" />
+            <xs:element minOccurs="0" name="ILPRODUCT" type="tns:YesNoType" />
+            <xs:element minOccurs="0" name="DISPILTYPE" type="xs:string" />
+            <xs:element minOccurs="0" maxOccurs="unbounded" name="Inteffdtmap">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element minOccurs="0" name="UDEEFFDT" type="xs:date" />
+                  <xs:element minOccurs="0" name="EFFDTMAPSTAT" type="xs:string" />
+                  <xs:element minOccurs="0" maxOccurs="unbounded" name="Intsde">
+                    <xs:complexType>
+                      <xs:sequence>
+                        <xs:element minOccurs="0" name="UDEID" type="xs:string" />
+                        <xs:element minOccurs="0" name="UDEVALUE" type="xs:decimal" />
+                        <xs:element minOccurs="0" name="RATECODE" type="xs:string" />
+                        <xs:element minOccurs="0" name="TDRATECODE" type="xs:string" />
+                        <xs:element minOccurs="0" name="RATEFLAG" type="tns:YesNoType" />
+                      </xs:sequence>
+                    </xs:complexType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="BillingPrefType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CONSOLACC" type="xs:string" />
+      <xs:element minOccurs="0" name="BILLIQD" type="tns:BILLIQDType" />
+      <xs:element minOccurs="0" name="SETLMTACC" type="xs:string" />
+      <xs:element minOccurs="0" name="DIRDEBIT" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="DDBNKCD" type="xs:string" />
+      <xs:element minOccurs="0" name="DDACCNO" type="xs:string" />
+      <xs:element minOccurs="0" name="NAME" type="xs:string" />
+      <xs:element minOccurs="0" name="AGREMNTID" type="xs:string" />
+      <xs:element minOccurs="0" name="SETLACCBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="SETLCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="CONSOLACCBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="CONSOLCCY" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Billingproducts">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="BILLPRODCD" type="xs:string" />
+            <xs:element minOccurs="0" name="BILLPRDDESC" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAccByCustNoType">
+    <xs:sequence>
+      <xs:element name="XREF" type="xs:string" />
+      <xs:element name="CUSTNO" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ModifyCustAddrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTNO" type="xs:string" />
+      <xs:element name="CUSTADDRESS" type="tns:CustAddrModifyType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAddrModifyType">
+    <xs:sequence>
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+      <xs:element minOccurs="0" name="LANG" type="xs:string" />
+      <xs:element minOccurs="0" name="DEFAULTADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="NAME" type="xs:string" />
+      <xs:element minOccurs="0" name="COUNTRY" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN1" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN2" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN3" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN4" type="xs:string" />
+      <xs:element minOccurs="0" name="TESTKEYWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="DELIVERYBY" type="xs:string" />
+      <xs:element minOccurs="0" name="SENDBYEMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ADDHOLDMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ANSWERBACK" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Msgaddress" type="tns:MsgAddrsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="MsgAddrsType">
+    <xs:sequence>
+      <xs:element name="MODULE" type="xs:string" />
+      <xs:element minOccurs="0" name="MSGTYPE" type="xs:string" />
+      <xs:element minOccurs="0" name="COPIES" type="xs:integer" />
+      <xs:element minOccurs="0" name="FORMAT" type="xs:string" />
+      <xs:element minOccurs="0" name="PRADD" type="tns:YesNoType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AcctxnresType">
+    <xs:sequence>
+      <xs:element name="TXNCD" type="xs:string" />
+      <xs:element minOccurs="0" name="DRTTXN" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="CRTXN" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="TXNDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="JointHoldersType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="JNTHLDCDE" type="xs:string" />
+      <xs:element minOccurs="0" name="JNTHLDDESC" type="xs:string" />
+      <xs:element name="JNTHLDTYP" type="tns:JNTHLDTYPType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TDInputType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="LIQDBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="LIQDACC" type="xs:string" />
+      <xs:element minOccurs="0" name="INTSTDT" type="xs:anySimpleType" />
+      <xs:element name="MATDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="NEXTMATDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="AUTOROLL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ROLLTYPE" type="tns:RolloverType" />
+      <xs:element minOccurs="0" name="ROLLAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CLONMAT" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="MOVINTUNCLM" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="MOVPRIUNCLM" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="TDAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RDACC" type="xs:string" />
+      <xs:element minOccurs="0" name="RDPAYMNTCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="DFTENOR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="PAYOPT" type="tns:PayOptType" />
+      <xs:element minOccurs="0" name="OFFBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="OFFACC" type="xs:string" />
+      <xs:element minOccurs="0" name="AUTOPAY" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="FUNDONOVD" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="MOVTOUNCLM" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="PAYBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="PAYACC" type="xs:string" />
+      <xs:element minOccurs="0" name="RDFREDAY" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RDFREMTH" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RDFREYEAR" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RDAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MATURITY_AMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="INTEREST_RATE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="RDFLAG" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="RDPAYSCHDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="STOCKCATALOGCODE" type="xs:string" />
+      <xs:element minOccurs="0" name="CERTNUM" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CRB_DUP_IND" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AutoDepDetailsType">
+    <xs:sequence>
+      <xs:element name="SWPTOACBRN" type="xs:string" />
+      <xs:element name="SWPTOAC" type="xs:string" />
+      <xs:element minOccurs="0" name="SWPAMOUNT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MINREQDBAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DEPCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="STARTDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="RETRYTILLDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="ACCLS" type="xs:string" />
+      <xs:element minOccurs="0" name="CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="TENOR" type="xs:integer" />
+      <xs:element minOccurs="0" name="CUSTOMER" type="xs:string" />
+      <xs:element minOccurs="0" name="SEQNO" type="xs:integer" />
+      <xs:element minOccurs="0" name="SCODE" type="xs:string" />
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="SWPMULTIOF" type="xs:integer" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CreateCustAddrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTNO" type="xs:string" />
+      <xs:element name="CUSTADDRESS" type="tns:CustAddrType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAddrType">
+    <xs:sequence>
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+      <xs:element minOccurs="0" name="LANG" type="xs:string" />
+      <xs:element minOccurs="0" name="DEFAULTADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="COMMADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="NAME" type="xs:string" />
+      <xs:element minOccurs="0" name="COUNTRY" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN1" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN2" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN3" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN4" type="xs:string" />
+      <xs:element minOccurs="0" name="TESTKEYWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="DELIVERYBY" type="xs:string" />
+      <xs:element minOccurs="0" name="SENDBYEMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ADDHOLDMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ANSWERBACK" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Msgaddress" type="tns:MsgAddrsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SlimIntDetailsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CRINTRT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CRINTRTCD" type="xs:string" />
+      <xs:element minOccurs="0" name="DRINTRT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DRINTRTCD" type="xs:string" />
+      <xs:element minOccurs="0" name="INTBOOKACC" type="xs:string" />
+      <xs:element minOccurs="0" name="INTBOOKBRN" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DiarydetailsType">
+    <xs:sequence>
+      <xs:element name="INSTRNO" type="xs:string" />
+      <xs:element name="UNTYPE" type="xs:string" />
+      <xs:element name="UNTVAL" type="xs:string" />
+      <xs:element name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTRTYPE" type="xs:string" />
+      <xs:element minOccurs="0" name="EXEDAYS" type="xs:integer" />
+      <xs:element minOccurs="0" name="EXEMONTHS" type="xs:integer" />
+      <xs:element minOccurs="0" name="EXEYEARS" type="xs:integer" />
+      <xs:element minOccurs="0" name="MNTHENDFLG" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="HLDRULE" type="xs:string" />
+      <xs:element minOccurs="0" name="FRSTDUEDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="NXTDUEDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="NXTEXCDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="OPERATOR" type="xs:string" />
+      <xs:element minOccurs="0" name="CONDVAL" type="xs:integer" />
+      <xs:element minOccurs="0" name="ACCOFFICER" type="xs:string" />
+      <xs:element minOccurs="0" name="SPLINSTRTYP" type="xs:string" />
+      <xs:element minOccurs="0" name="SPLINSTR" type="xs:string" />
+      <xs:element minOccurs="0" name="EXPDT" type="xs:anySimpleType" />
+      <xs:element minOccurs="0" name="RECSTATUS" type="tns:RecStatType" />
+      <xs:element minOccurs="0" name="AUTHSTAT" type="tns:AUTHSTATType" />
+      <xs:element minOccurs="0" name="CONDELEM" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccCrDrLmtsType">
+    <xs:sequence>
+      <xs:element name="CRDRCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="CRLMTAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DRLMTAMT" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccAddrModifyType">
+    <xs:sequence>
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+      <xs:element minOccurs="0" name="LANG" type="xs:string" />
+      <xs:element minOccurs="0" name="NAME" type="xs:string" />
+      <xs:element minOccurs="0" name="DEFAULTADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="COUNTRY" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN1" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN2" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN3" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN4" type="xs:string" />
+      <xs:element minOccurs="0" name="TESTKEYWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="DELIVERYBY" type="xs:string" />
+      <xs:element minOccurs="0" name="SENDBYEMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ADDHOLDMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ANSWERBACK" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MSGADRESS" type="tns:MsgAddrsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAddrPKType">
+    <xs:sequence>
+      <xs:element name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTNO" type="xs:string" />
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAccAddrPKType">
+    <xs:sequence>
+      <xs:element name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTACNO" type="xs:string" />
+      <xs:element name="BRN" type="xs:string" />
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AuthBICDetailsType">
+    <xs:sequence>
+      <xs:element name="BICCODE" type="xs:string" />
+      <xs:element minOccurs="0" name="BICDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FCUBS_NotifHeaderType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="SOURCE" type="xs:string" />
+      <xs:element name="MSGID" type="xs:string" />
+      <xs:element name="NOTIF_REF_NO" type="xs:string" />
+      <xs:element name="BRANCH" type="xs:string" />
+      <xs:element name="NOTIF_CODE" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINATION" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AcStatusLinesType">
+    <xs:sequence>
+      <xs:element name="ACSTATUS" type="xs:string" />
+      <xs:element name="CRCBLINE" type="xs:string" />
+      <xs:element name="DRCBLINE" type="xs:string" />
+      <xs:element name="CRGL" type="xs:string" />
+      <xs:element name="DRGL" type="xs:string" />
+      <xs:element name="CRHOLINE" type="xs:string" />
+      <xs:element name="DRHOLINE" type="xs:string" />
+      <xs:element minOccurs="0" name="STATDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccmaintinstrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="DTOFLSTMAINT" type="xs:date" />
+      <xs:element minOccurs="0" name="INSTR1WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR2WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR3WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR4WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR1" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR2" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR3" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR4" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccFundingType">
+    <xs:sequence>
+      <xs:element name="PRD" type="xs:string" />
+      <xs:element name="ACCNO" type="xs:string" />
+      <xs:element name="BRN" type="xs:string" />
+      <xs:element name="AMT" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="MaintInstrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MAINTINSTR1" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR2" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR3" type="xs:string" />
+      <xs:element minOccurs="0" name="MAINTINSTR4" type="xs:string" />
+      <xs:element minOccurs="0" name="DTOFLSTMAINT" type="xs:date" />
+      <xs:element minOccurs="0" name="INSTR1WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR2WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR3WHEN" type="xs:string" />
+      <xs:element minOccurs="0" name="INSTR4WHEN" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ChgConsType">
+    <xs:sequence>
+      <xs:element name="CHGPROD" type="xs:string" />
+      <xs:element minOccurs="0" name="WAIVEPROD" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="PRODMAPSTAT" type="tns:RecStatType" />
+      <xs:element minOccurs="0" name="MINAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MAXAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DISCPC" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DISCAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CHGCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="PRDDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccprdresType">
+    <xs:sequence>
+      <xs:element name="PRD" type="xs:string" />
+      <xs:element minOccurs="0" name="PRDDESC" type="xs:string" />
+      <xs:element minOccurs="0" name="DRTTXN" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="CRTXN" type="tns:YesNoType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccAddrType">
+    <xs:sequence>
+      <xs:element name="MEDIA" type="xs:string" />
+      <xs:element name="LOC" type="xs:string" />
+      <xs:element minOccurs="0" name="LANG" type="xs:string" />
+      <xs:element minOccurs="0" name="NAME" type="xs:string" />
+      <xs:element minOccurs="0" name="DEFAULTADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="COMMADDR" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="COUNTRY" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN1" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN2" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN3" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDRLN4" type="xs:string" />
+      <xs:element minOccurs="0" name="TESTKEYWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="DELIVERYBY" type="xs:string" />
+      <xs:element minOccurs="0" name="SENDBYEMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ADDHOLDMAIL" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="ANSWERBACK" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MSGADRESS" type="tns:MsgAddrsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AcProvDetType">
+    <xs:sequence>
+      <xs:element name="PRVSTATUS" type="xs:string" />
+      <xs:element minOccurs="0" name="PRVPC" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DISCPC" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CreateCustAccAddrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTACNO" type="xs:string" />
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element name="CUSTACCADDRESS" type="tns:AccAddrType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DocTypeChecklist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRANCH_CODE" type="xs:string" />
+      <xs:element minOccurs="0" name="CUST_AC_NO" type="xs:string" />
+      <xs:element minOccurs="0" name="DOCUMENT_TYPE" type="xs:string" />
+      <xs:element minOccurs="0" name="MANDATORY" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="CHECKED" type="tns:YesNoType" />
+      <xs:element minOccurs="0" name="EXPIRY_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="EXPECTED_DATE_SUBMISSION" type="xs:date" />
+      <xs:element minOccurs="0" name="ACTUAL_SUBMISSION_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="DOCREFNO" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ModifyAccAddrType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTACNO" type="xs:string" />
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element name="CUSTACCADDRESS" type="tns:AccAddrModifyType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAddrFullType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTNO" type="xs:string" />
+      <xs:element name="CUSTADDRESS" type="tns:CustAddrType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TDFinDetailsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CURRBAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="AVLBAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="OSLIMITAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="UNCOLAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="BLKAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TODLIMIT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SUBLIMIT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="UNCOLFUNDLIMIT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DRACCRINT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CRINTAMT" type="xs:decimal" />
+      <xs:element name="TENOR" type="xs:decimal" />
+      <xs:element name="RATE" type="xs:decimal" />
+      <xs:element name="TDAMT" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Td-Rolloverhistory">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="OLD_MAT_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="NEW_MAT_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="ROLLOVER_DATE" type="xs:date" />
+      <xs:element minOccurs="0" name="ACC_STATUS" type="xs:string" />
+      <xs:element minOccurs="0" name="ROLLOVER_TYPE" type="xs:string" />
+      <xs:element minOccurs="0" name="INTEREST" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PRINCIPAL" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ROLLOVER_AMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SEQNO" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TDPayOutType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="PAYOUTTYPE" type="xs:string" />
+      <xs:element minOccurs="0" name="OFFBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="OFFACC" type="xs:string" />
+      <xs:element minOccurs="0" name="PERCENTAGE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="NARRATIVE" type="xs:string" />
+      <xs:element minOccurs="0" name="SEQNO" type="xs:integer" />
+      <xs:element minOccurs="0" name="PAYOUTCOMP" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="IntermediaryType">
+    <xs:sequence>
+      <xs:element name="INTERMEDIARY_CODE" type="xs:string" />
+      <xs:element name="INTERMEDIARY_RATIO" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustAccAddrFullType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="XREF" type="xs:string" />
+      <xs:element minOccurs="0" name="CUSTACNO" type="xs:string" />
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element name="CUSTACCADDRESS" type="tns:AccAddrType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TDPayInType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="MMPAYOPT" type="xs:string" />
+      <xs:element minOccurs="0" name="MMTDAMT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="MMOFFSETBRN" type="xs:string" />
+      <xs:element minOccurs="0" name="MMTDOFFSETACC" type="xs:string" />
+      <xs:element minOccurs="0" name="MMTDOFFSETCCY" type="xs:string" />
+      <xs:element minOccurs="0" name="MMPERCENTAGE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CHQINSTNO" type="xs:string" />
+      <xs:element minOccurs="0" name="PRODUCT_F" type="xs:string" />
+      <xs:element minOccurs="0" name="CHQ_ADTE" type="xs:date" />
+      <xs:element minOccurs="0" name="DRAWEE_ACCOUNT" type="xs:string" />
+      <xs:element minOccurs="0" name="ROUTING_NO" type="xs:string" />
+      <xs:element minOccurs="0" name="MMXRATE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SEQNO" type="xs:integer" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DocTypeRemarks">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BRANCH_CODE" type="xs:string" />
+      <xs:element minOccurs="0" name="CUST_AC_NO" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK1" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK2" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK3" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK4" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK5" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK6" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK7" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK8" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK9" type="xs:string" />
+      <xs:element minOccurs="0" name="REMARK10" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DCDInputType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="TD_BRN" type="xs:string" />
+      <xs:element minOccurs="0" name="TD_ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="TD_CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="LINK_CCY" type="xs:string" />
+      <xs:element minOccurs="0" name="CCY_OPTION_PROD" type="xs:string" />
+      <xs:element minOccurs="0" name="EXCH_RATE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LINKED_CCY_SETT_ACC" type="xs:string" />
+      <xs:element minOccurs="0" name="LINKED_CCY_GL" type="xs:string" />
+      <xs:element minOccurs="0" name="FIXING_DAYS" type="xs:decimal" />
+      <xs:element minOccurs="0" name="YLD_ENHANCEMENT" type="xs:decimal" />
+      <xs:element minOccurs="0" name="INCEPTION_FAIR_VALUE" type="xs:decimal" />
+      <xs:element minOccurs="0" name="OPTION_CONTRACT_REF_NO" type="xs:string" />
+      <xs:element minOccurs="0" name="TD_MAT_DATE" type="xs:anySimpleType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="UBSCOMPType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="FCUBS" />
+      <xs:enumeration value="FCIS" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="MsgStatType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="SUCCESS" />
+      <xs:enumeration value="WARNING" />
+      <xs:enumeration value="FAILURE" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="StmtType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="S" />
+      <xs:enumeration value="D" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="BalanceType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="B" />
+      <xs:enumeration value="V" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="YesNoType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Y" />
+      <xs:enumeration value="N" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="DrCrType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="D" />
+      <xs:enumeration value="C" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="RecStatType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="O" />
+      <xs:enumeration value="C" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="RateFlgType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="N" />
+      <xs:enumeration value="Y" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="BILLIQDType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="A" />
+      <xs:enumeration value="M" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="JNTHLDTYPType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="AUS" />
+      <xs:enumeration value="CON" />
+      <xs:enumeration value="CUS" />
+      <xs:enumeration value="DEV" />
+      <xs:enumeration value="GUA" />
+      <xs:enumeration value="GUR" />
+      <xs:enumeration value="JAF" />
+      <xs:enumeration value="JAO" />
+      <xs:enumeration value="JOF" />
+      <xs:enumeration value="JOO" />
+      <xs:enumeration value="NOM" />
+      <xs:enumeration value="REL" />
+      <xs:enumeration value="SOL" />
+      <xs:enumeration value="SOW" />
+      <xs:enumeration value="THR" />
+      <xs:enumeration value="TRU" />
+      <xs:enumeration value="VAL" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="RolloverType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="P" />
+      <xs:enumeration value="I" />
+      <xs:enumeration value="S" />
+      <xs:enumeration value="T" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="PayOptType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="G" />
+      <xs:enumeration value="C" />
+      <xs:enumeration value="S" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="AUTHSTATType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="A" />
+      <xs:enumeration value="U" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

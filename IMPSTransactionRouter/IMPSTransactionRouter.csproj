@@ -1,0 +1,1945 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{016B717E-E846-4CE8-91D0-A4F652766138}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IMPSTransactionRouter</RootNamespace>
+    <AssemblyName>IMPSTransactionRouter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort>
+    </IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis, Version=1.61.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.61.0\lib\net45\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.61.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.61.0\lib\net45\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices, Version=1.61.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.61.0\lib\net45\Google.Apis.Auth.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.61.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.61.0\lib\net45\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices, Version=1.61.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.61.0\lib\net45\Google.Apis.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\DllResource\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="ISwitchCommunication">
+      <HintPath>..\DllResource\ISwitchCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="JamaaTech.Smpp.Net.Client.v1.4, Version=1.4.3.23397, Culture=neutral, PublicKeyToken=b4d987d2a0589433, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\JamaaTech.Smpp.Net.Client.v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="JamaaTech.Smpp.Net.Lib.v1.4, Version=1.4.3.40745, Culture=neutral, PublicKeyToken=b4d987d2a0589433, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\JamaaTech.Smpp.Net.Lib.v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="KEK">
+      <HintPath>..\DllResource\KEK.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Edm, Version=5.8.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Edm.5.8.4\lib\net40\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData, Version=5.8.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.OData.5.8.4\lib\net40\Microsoft.Data.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Administration, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.111.7.20, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Vivek\Desktop\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\net45\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Spatial, Version=5.8.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Spatial.5.8.4\lib\net40\System.Spatial.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.7\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.OData, Version=5.7.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.OData.5.7.0\lib\net45\System.Web.Http.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.Tracing, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Tracing.5.2.7\lib\net45\System.Web.Http.Tracing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.7\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Providers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Providers.Core.2.0.0\lib\net40\System.Web.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="ThalesCore, Version=0.9.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DllResource\ThalesCore.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease, Version=1.6.5135.21930, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
+    <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.cs" />
+    <Compile Include="Areas\HelpPage\Controllers\HelpController.cs" />
+    <Compile Include="Areas\HelpPage\HelpPageAreaRegistration.cs" />
+    <Compile Include="Areas\HelpPage\HelpPageConfigurationExtensions.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\Models\HelpPageApiModel.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ImageSample.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\InvalidSample.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ObjectGenerator.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
+    <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MobileBankingController.cs" />
+    <Compile Include="Controllers\MobilePortalManagementController.cs" />
+    <Compile Include="Controllers\testController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CommanDetails.cs" />
+    <Compile Include="Models\Formdata.cs" />
+    <Compile Include="Models\HSMAuthontication.cs" />
+    <Compile Include="Models\MOBILEBANKING_REQ_RESP.cs" />
+    <Compile Include="Models\ProcessHost.cs" />
+    <Compile Include="Models\ProcessMessage.cs" />
+    <Compile Include="Models\ProcessPayment.cs" />
+    <Compile Include="Models\ProcessPortalRequest.cs" />
+    <Compile Include="Models\Root.cs" />
+    <Compile Include="Models\TashiCellToken.cs" />
+    <Compile Include="NQRCServer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Schedular.cs" />
+    <Compile Include="Service References\FCUBSAccFinService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\FCUBSAccService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\FCUBSCLService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\FCUBSMessagingService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\FCUBSRTService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\FCUBSUPService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\RRCO\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\NPPF\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\HelpPage\HelpPage.css" />
+    <Content Include="Content\themes\base\accordion.css" />
+    <Content Include="Content\themes\base\all.css" />
+    <Content Include="Content\themes\base\autocomplete.css" />
+    <Content Include="Content\themes\base\base.css" />
+    <Content Include="Content\themes\base\button.css" />
+    <Content Include="Content\themes\base\core.css" />
+    <Content Include="Content\themes\base\datepicker.css" />
+    <Content Include="Content\themes\base\dialog.css" />
+    <Content Include="Content\themes\base\draggable.css" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_444444_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_555555_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_777620_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_777777_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\menu.css" />
+    <Content Include="Content\themes\base\progressbar.css" />
+    <Content Include="Content\themes\base\resizable.css" />
+    <Content Include="Content\themes\base\selectable.css" />
+    <Content Include="Content\themes\base\selectmenu.css" />
+    <Content Include="Content\themes\base\slider.css" />
+    <Content Include="Content\themes\base\sortable.css" />
+    <Content Include="Content\themes\base\spinner.css" />
+    <Content Include="Content\themes\base\tabs.css" />
+    <Content Include="Content\themes\base\theme.css" />
+    <Content Include="Content\themes\base\tooltip.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Areas\HelpPage\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Web.config" />
+    <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Index.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="drukpay-ac6b5-firebase-adminsdk-hm6dg-3db23f7707.json" />
+    <Content Include="druk-pnb-9c0bf-firebase-adminsdk-owots-8cb38e9ae7.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\BIPS.pubxml" />
+    <None Include="Properties\PublishProfiles\BNBLIMPS.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Scripts\jquery-3.5.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.5.1.js" />
+    <Content Include="Scripts\jquery-3.5.1.min.js" />
+    <Content Include="Scripts\jquery-3.5.1.slim.js" />
+    <Content Include="Scripts\jquery-3.5.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.5.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.5.1.min.map" />
+    <None Include="Service References\FCUBSAccFinService\FCUBSAccFinService.wsdl" />
+    <None Include="Service References\FCUBSAccFinService\FCUBSAccFinService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Scripts\jquery-ui-1.12.1.js" />
+    <Content Include="Scripts\jquery-ui-1.12.1.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\knockout-3.5.1.debug.js" />
+    <Content Include="Scripts\knockout-3.5.1.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.FinancialCycleQueryIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.FINANCIALCYCLEQUERY_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.QueryFinancialCycleIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.QUERYFINANCIALCYCLE_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.RequestAccStmtIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccFinService\IMPSTransactionRouter.FCUBSAccFinService.REQUESTACCSTMT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSAccService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSAccService\configuration.svcinfo" />
+    <None Include="Service References\FCUBSAccFinService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSAccFinService\configuration.svcinfo" />
+    <None Include="Service References\FCUBSAccFinService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeAcClassTfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeAcClassTfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZEACCLASSTFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZEACCLASSTFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZECHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZECHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZECUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZECUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeStopPaymentsFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZESTOPPAYMENTS_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZESTOPPAYMENTS_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AuthorizeTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZETDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.AUTHORIZETDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CheckDetailsQueryIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CHECKDETAILSQUERY_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSECHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSECHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSECUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSECUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseStopPaymentsFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSESTOPPAYMENTS_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSESTOPPAYMENTS_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CloseTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSETDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CLOSETDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateAcClassTfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateAcClassTfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATEACCLASSTFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATEACCLASSTFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATECHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATECHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATECUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATECUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateStopPaymentsFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATESTOPPAYMENTS_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATESTOPPAYMENTS_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATETDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATETDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateTDSimFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CreateTDSimIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATETDSIM_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.CREATETDSIM_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteAcClassTfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteAcClassTfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETEACCLASSTFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETEACCLASSTFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETECHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETECHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETECUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETECUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteStopPaymentsFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETESTOPPAYMENTS_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETESTOPPAYMENTS_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DeleteTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETETDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.DELETETDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyAcClassTfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyAcClassTfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYACCLASSTFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYACCLASSTFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYCHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYCHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyStopPaymentsFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYSTOPPAYMENTS_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYSTOPPAYMENTS_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ModifyTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYTDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.MODIFYTDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryAccBalIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYACCBAL_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryAcClassTfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYACCLASSTFR_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryAccSummIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYACCSUMM_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYCHECKBOOK_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QuerycustAccountDetailsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYCUSTACCOUNTDETAILS_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYCUSTACC_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryGenAdviceIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYGENADVICE_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryStopPaymentsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYSTOPPAYMENTS_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QueryTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.QUERYTDCUSTACC_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenCheckBookFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenCheckBookIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENCHECKBOOK_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENCHECKBOOK_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenTDCustAccFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.ReopenTDCustAccIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENTDCUSTACC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSAccService\IMPSTransactionRouter.FCUBSAccService.REOPENTDCUSTACC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSAccService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\FCUBSCLService\FCUBSCLService.wsdl" />
+    <None Include="Service References\FCUBSCLService\FCUBSCLService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ActiveRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ACTIVEROLLOVER_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthCLAdhocIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHCLADHOC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthCLUDEventIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHCLUDEVENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthInstStatChgIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHINSTSTATCHG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeAccountFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeAccountIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEACCOUNT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEACCOUNT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeDisbursementFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeDisbursementIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEDISBURSEMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEDISBURSEMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeMortgageFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeMortgageIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEMORTGAGE_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEMORTGAGE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeNotaryConfirmFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeNotaryConfirmIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZENOTARYCONFIRM_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZENOTARYCONFIRM_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizePaymentFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizePaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPAYMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPAYMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeProductFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPRODUCT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEPRODUCT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeVamiFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthorizeVamiIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEVAMI_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHORIZEVAMI_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthReassignIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHREASSIGN_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthRenogIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHRENOG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHROLLOVER_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthStatusChangeIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHSTATUSCHANGE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthVamiFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AuthVamiIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHVAMI_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.AUTHVAMI_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CloseAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CloseAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CLOSEACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CLOSEACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CloseProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CloseProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CLOSEPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CLOSEPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateAccountFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateAccountIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEACCOUNT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEACCOUNT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateCLUDEventIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATECLUDEVENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateDisbursementFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateDisbursementIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEDISBURSEMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEDISBURSEMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateNotaryConfirmFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateNotaryConfirmIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATENOTARYCONFIRM_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATENOTARYCONFIRM_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreatePaymentFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreatePaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPAYMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPAYMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateProductFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPRODUCT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEPRODUCT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateVamiFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CreateVamiIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEVAMI_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.CREATEVAMI_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteAccountFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteAccountIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEACCOUNT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEACCOUNT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteCLAdhocIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETECLADHOC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteCLUDEventIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETECLUDEVENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteDisbursementFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteDisbursementIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEDISBURSEMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEDISBURSEMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteInstStatChgIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEINSTSTATCHG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteNotaryConfirmFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteNotaryConfirmIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETENOTARYCONFIRM_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETENOTARYCONFIRM_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeletePaymentFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeletePaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPAYMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPAYMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteProductFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPRODUCT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEPRODUCT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteRenogIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETERENOG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEROLLOVER_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteStatusChangeIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETESTATUSCHANGE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteVamiFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DeleteVamiIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEVAMI_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.DELETEVAMI_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyProductFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ModifyProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYPRODUCT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.MODIFYPRODUCT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryAccountIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryAccountStatsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYACCOUNTSTATS_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYACCOUNTTRFR_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYACCOUNT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryAutosuspInfoIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYAUTOSUSPINFO_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryCLEventsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYCLEVENTS_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryClInfoIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYCLINFO_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryCLUDEventIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYCLUDEVENT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryCustSumIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYCUSTSUM_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryDisbursementIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYDISBURSEMENT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryNotaryConfirmIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYNOTARYCONFIRM_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryPaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYPAYMENT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryPmntSchIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYPMNTSCH_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYPRODTRFR_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYPRODUCT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryRenogIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYRENOG_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYROLLOVER_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QueryVamiIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.QUERYVAMI_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReopenAccountTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReopenAccountTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REOPENACCOUNTTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REOPENACCOUNTTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReopenProdTrfrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReopenProdTrfrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REOPENPRODTRFR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REOPENPRODTRFR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.RevCLAdhocIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVCLADHOC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseCLUDEventIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSECLUDEVENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseDisbursementFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseDisbursementIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEDISBURSEMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEDISBURSEMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseInstStatChgIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEINSTSTATCHG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReversePaymentFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReversePaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEPAYMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEPAYMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseRenogIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSERENOG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.ReverseRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.REVERSEROLLOVER_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveAccountActivateIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEACCOUNTACTIVATE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveAccSimFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveAccSimIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEACCSIM_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEACCSIM_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveALiqdSuspFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveALiqdSuspIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEALIQDSUSP_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEALIQDSUSP_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveCLAdhocFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveCLAdhocIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVECLADHOC_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVECLADHOC_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveInactiveFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveInactiveIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEINACTIVE_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEINACTIVE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveInstStatChgFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveInstStatChgIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEINSTSTATCHG_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEINSTSTATCHG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveReassignFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveReassignIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEREASSIGN_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEREASSIGN_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveRenogFSResponse1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveRenogIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVERENOG_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVERENOG_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveReversalFSResponse1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEREVERSAL_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveRolloverFSResponse1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveRolloverIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEROLLOVER_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVEROLLOVER_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveStatusChangeFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SaveStatusChangeIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVESTATUSCHANGE_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SAVESTATUSCHANGE_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SimPaymentFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SimPaymentIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SIMPAYMENT_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSCLService\IMPSTransactionRouter.FCUBSCLService.SIMPAYMENT_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSMessagingService\FCUBSMessagingService.wsdl" />
+    <None Include="Service References\FCUBSMessagingService\FCUBSMessagingService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\FCUBSCLService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSCLService\configuration.svcinfo" />
+    <None Include="Service References\FCUBSCLService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Service References\FCUBSMessagingService\IMPSTransactionRouter.FCUBSMessagingService.GetContractMsgsIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSMessagingService\IMPSTransactionRouter.FCUBSMessagingService.GETCONTRACTMSGS_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSRTService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSRTService\configuration.svcinfo" />
+    <None Include="Service References\FCUBSMessagingService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSMessagingService\configuration.svcinfo" />
+    <None Include="Service References\FCUBSMessagingService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.AuthorizeTransactionFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.AuthorizeTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.AUTHORIZETRANSACTION_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.AUTHORIZETRANSACTION_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.CreateTransactionFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.CreateTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.CREATETRANSACTION_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.CREATETRANSACTION_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.QueryRTProductIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.QUERYRTPRODUCT_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.QueryTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.QUERYTRANSACTION_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.ReverseTransactionFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.ReverseTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.REVERSETRANSACTION_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSRTService\IMPSTransactionRouter.FCUBSRTService.REVERSETRANSACTION_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSRTService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\FCUBSUPService\configuration91.svcinfo" />
+    <None Include="Service References\FCUBSUPService\configuration.svcinfo" />
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.AuthorizeBillInstrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.AuthorizeBillInstrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.AUTHORIZEBILLINSTR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.AUTHORIZEBILLINSTR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CreateBillInstrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CreateBillInstrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CREATEBILLINSTR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CREATEBILLINSTR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CreateUPTransactionFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CreateUPTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CREATEUPTRANSACTION_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.CREATEUPTRANSACTION_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.DeleteBillInstrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.DeleteBillInstrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.DELETEBILLINSTR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.DELETEBILLINSTR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.ModifyBillInstrFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.ModifyBillInstrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.MODIFYBILLINSTR_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.MODIFYBILLINSTR_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.QueryBillInstrIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.QUERYBILLINSTR_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.QueryUPTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.QUERYUPTRANSACTION_IOFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.ReverseUPTransactionFSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.ReverseUPTransactionIOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.REVERSEUPTRANSACTION_FSFS_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\FCUBSUPService\IMPSTransactionRouter.FCUBSUPService.REVERSEUPTRANSACTION_IOPK_RES.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSUPService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\RRCO\configuration91.svcinfo" />
+    <None Include="Service References\RRCO\configuration.svcinfo" />
+    <Content Include="Service References\RRCO\IMPSTransactionRouter.RRCO.DepositChallanMaster.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\RRCO\IMPSTransactionRouter.RRCO.DepositVoucherMaster.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\RRCO\IMPSTransactionRouter.RRCO.getChallanDetailsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\RRCO\IMPSTransactionRouter.RRCO.getDepositVoucherDetailsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\RRCO\IMPSTransactionRouter.RRCO.sendPaymentStatusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\RRCO\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Web References\NPPF\BranchInformation.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\NPPF\CountryInformation.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\NPPF\DistrictInformation.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\NPPF\PsoInformation.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <None Include="Service References\RRCO\BobIntegrationService.wsdl" />
+    <None Include="Service References\RRCO\bobIntegrationService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\RRCO\bobIntegrationService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\NPPF\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\NPPF\Service.disco" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <None Include="Service References\FCUBSAccService\FCUBSAccService.wsdl" />
+    <None Include="Service References\FCUBSAccService\FCUBSAccService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\FCUBSRTService\FCUBSRTService.wsdl" />
+    <None Include="Service References\FCUBSRTService\FCUBSRTService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\FCUBSUPService\FCUBSUPService.wsdl" />
+    <None Include="Service References\FCUBSUPService\FCUBSUPService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\NPPF\Service.wsdl" />
+    <None Include="Web References\NPPF\Service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\NPPF\Service0.wsdl" />
+    <None Include="Web References\NPPF\Service0.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\NPPF\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\NPPF\Service2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Web References\NPPF\SubDistrictInformation.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ComminicationChanel\ComminicationChanel.csproj">
+      <Project>{49b5b383-1c0b-44bf-ab63-695fe5b1ec61}</Project>
+      <Name>ComminicationChanel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EncryptionDecryption\EncryptionDecryption.csproj">
+      <Project>{7ca456da-56a8-4e5d-93b3-67e2f2e30009}</Project>
+      <Name>EncryptionDecryption</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HostInterface\ComminicationChanel\HostComminicationChanel.csproj">
+      <Project>{2c21d3d2-12c5-483b-9b0e-b6e7e8b97f6a}</Project>
+      <Name>HostComminicationChanel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HostInterface\CommunicationManager\CommunicationManager.csproj">
+      <Project>{4512f52b-7da2-4438-b9b4-e132dea46833}</Project>
+      <Name>CommunicationManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MIIPL.MaxiSwitchDALC\DALC\MaxiSwitchDALC.csproj">
+      <Project>{4a441a18-196c-4368-9850-6a6c62d892f5}</Project>
+      <Name>MaxiSwitchDALC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TerminalLogger\TerminalLogger.csproj">
+      <Project>{48341ad2-a159-4a72-9cbb-3acb84d78f63}</Project>
+      <Name>TerminalLogger</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\FCUBSAccFinService\" />
+    <WCFMetadataStorage Include="Service References\FCUBSAccService\" />
+    <WCFMetadataStorage Include="Service References\FCUBSCLService\" />
+    <WCFMetadataStorage Include="Service References\FCUBSMessagingService\" />
+    <WCFMetadataStorage Include="Service References\FCUBSRTService\" />
+    <WCFMetadataStorage Include="Service References\FCUBSUPService\" />
+    <WCFMetadataStorage Include="Service References\RRCO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://192.168.124.40/Service.svc">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\NPPF\</RelPath>
+      <UpdateFromURL>http://192.168.124.40/Service.svc</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>IMPSTransactionRouter_NPPF_Service</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\test\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>61045</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:61046/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

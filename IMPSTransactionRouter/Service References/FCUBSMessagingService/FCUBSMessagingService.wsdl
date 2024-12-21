@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://types.ws.gw.fcubs.ofss.com" name="FCUBSMessagingService" targetNamespace="http://types.ws.gw.fcubs.ofss.com" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://172.17.250.15:7070/FCUBSMessagingService/FCUBSMessagingService?xsd=1" namespace="http://fcubs.ofss.com/service/FCUBSMessagingService" />
+    </xsd:schema>
+  </types>
+  <message name="GetContractMsgsIO">
+    <part xmlns:ns1="http://fcubs.ofss.com/service/FCUBSMessagingService" name="RequestMsg" element="ns1:GETCONTRACTMSGS_IOFS_REQ" />
+  </message>
+  <message name="GetContractMsgsIOResponse">
+    <part xmlns:ns2="http://fcubs.ofss.com/service/FCUBSMessagingService" name="ResponseMsg" element="ns2:GETCONTRACTMSGS_IOFS_RES" />
+  </message>
+  <portType name="FCUBSMessagingServiceSEI">
+    <operation name="GetContractMsgsIO">
+      <input message="tns:GetContractMsgsIO" />
+      <output message="tns:GetContractMsgsIOResponse" />
+    </operation>
+  </portType>
+  <binding name="FCUBSMessagingServiceSEIBinding" type="tns:FCUBSMessagingServiceSEI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="GetContractMsgsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FCUBSMessagingService">
+    <port name="FCUBSMessagingServiceSEI" binding="tns:FCUBSMessagingServiceSEIBinding">
+      <soap:address location="http://172.17.250.15:7070/FCUBSMessagingService/FCUBSMessagingService" />
+    </port>
+  </service>
+</definitions>

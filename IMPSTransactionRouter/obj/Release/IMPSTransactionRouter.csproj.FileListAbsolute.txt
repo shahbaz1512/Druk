@@ -1,0 +1,302 @@
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll.config
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\IMPSTransactionRouter.XmlSerializers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\IMPSTransactionRouter.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\BIPS.Communication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\EntityFramework.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\HtmlAgilityPack.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\KEK.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\Newtonsoft.Json.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\Oracle.DataAccess.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Helpers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Http.OData.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Http.Tracing.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Mvc.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Optimization.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Providers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.WebPages.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\ThalesCore.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\BIPS.Communication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\EntityFramework.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\Newtonsoft.Json.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Helpers.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Mvc.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.WebPages.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Http.Tracing.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\System.Web.Http.OData.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.XmlSerializers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll.config
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\IMPSTransactionRouter.XmlSerializers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\IMPSTransactionRouter.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\BIPS.Communication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\EntityFramework.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\HtmlAgilityPack.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\KEK.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\Newtonsoft.Json.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Helpers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Http.OData.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Http.Tracing.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Mvc.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Optimization.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Providers.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.WebPages.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\ThalesCore.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\BIPS.Communication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\EntityFramework.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\Newtonsoft.Json.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Helpers.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Mvc.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.WebPages.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Http.Tracing.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\System.Web.Http.OData.xml
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.XmlSerializers.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll.config
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.XmlSerializers.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Antlr3.Runtime.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.SqlServer.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\HtmlAgilityPack.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\KEK.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.Edm.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.OData.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Web.Infrastructure.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Newtonsoft.Json.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Extensions.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Formatting.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Primitives.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Runtime.Remoting.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Spatial.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Helpers.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.OData.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.Tracing.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.WebHost.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Mvc.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Optimization.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Providers.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Razor.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Razor.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ThalesCore.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\WebGrease.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Antlr3.Runtime.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.SqlServer.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.Edm.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.OData.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\Newtonsoft.Json.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Extensions.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Formatting.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Primitives.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Spatial.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Helpers.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.OData.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.Tracing.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.WebHost.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Mvc.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Optimization.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Providers.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Razor.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Razor.xml
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\de\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\es\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\it\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\de\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\es\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\fr\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\it\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ja\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ko\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\ru\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csproj.App.config
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.XmlSerializers.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll.config
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.XmlSerializers.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\IMPSTransactionRouter.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Antlr3.Runtime.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.SqlServer.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\HtmlAgilityPack.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\KEK.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.Edm.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.OData.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Newtonsoft.Json.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Extensions.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Formatting.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Primitives.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Runtime.Remoting.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Spatial.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Helpers.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.OData.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.Tracing.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.WebHost.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Mvc.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Optimization.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Providers.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Razor.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Razor.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ThalesCore.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\TransactionRouter.CommunicationChanel.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\WebGrease.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\TransactionRouter.CommunicationChanel.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Antlr3.Runtime.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\EntityFramework.SqlServer.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.Edm.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Microsoft.Data.OData.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\Newtonsoft.Json.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Extensions.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Formatting.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Net.Http.Primitives.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Spatial.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Helpers.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.OData.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.Tracing.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Http.WebHost.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Mvc.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Optimization.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Providers.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.Razor.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Deployment.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\System.Web.WebPages.Razor.xml
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\de\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\es\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\it\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\de\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\es\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\fr\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\it\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ja\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ko\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\ru\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hans\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\bin\zh-Hant\System.Spatial.resources.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csproj.App.config
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\IMPSTransactionRouter\obj\Release\IMPSTransactionRouter.XmlSerializers.dll

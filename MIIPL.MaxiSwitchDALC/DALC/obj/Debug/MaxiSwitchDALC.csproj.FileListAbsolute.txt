@@ -1,0 +1,334 @@
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\Oracle.DataAccess.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\Oracle.DataAccess.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojResolveAssemblyReference.cache
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\MaxiSwitchDALC.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\MIIPL.MaxiSwitchDALC\DALC\obj\Debug\DALC.pdb

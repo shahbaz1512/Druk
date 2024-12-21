@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ns1="http://service.bob.ramis.cmcltd.com/" targetNamespace="http://service.bob.ramis.cmcltd.com" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="https://103.7.255.29:8443/bobIntegrationService?xsd=1" namespace="http://service.bob.ramis.cmcltd.com/" />
+  <xs:element name="BobFaultBean" nillable="true" type="ns1:BobFaultBean" />
+</xs:schema>

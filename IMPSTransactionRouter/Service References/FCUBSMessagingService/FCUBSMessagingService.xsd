@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://fcubs.ofss.com/service/FCUBSMessagingService" elementFormDefault="qualified" targetNamespace="http://fcubs.ofss.com/service/FCUBSMessagingService" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GETCONTRACTMSGS_IOFS_REQ">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ContractMessages-IO" type="tns:ContractMsgs-PK-Type" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GETCONTRACTMSGS_IOFS_RES">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FCUBS_HEADER" type="tns:FCUBS_HEADERType" />
+        <xs:element name="FCUBS_BODY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="ContractMessages-PK" type="tns:ContractMsgs-PK-Type" />
+              <xs:element minOccurs="0" name="ContractMessages-IO" type="tns:ContractMsgs-IO-Type" />
+              <xs:element minOccurs="0" name="ContractMessages-Full" type="tns:ContractMsgs-Full-Type" />
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="FCUBS_ERROR_RESP" type="tns:ERRORType" />
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="FCUBS_WARNING_RESP" type="tns:WARNINGType" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="FCUBS_HEADERType">
+    <xs:sequence>
+      <xs:element name="SOURCE" type="xs:string" />
+      <xs:element name="UBSCOMP" type="tns:UBSCOMPType" />
+      <xs:element minOccurs="0" name="MSGID" type="xs:string" />
+      <xs:element minOccurs="0" name="CORRELID" type="xs:string" />
+      <xs:element name="USERID" type="xs:string" />
+      <xs:element name="BRANCH" type="xs:string" />
+      <xs:element minOccurs="0" name="MODULEID" type="xs:string" />
+      <xs:element name="SERVICE" nillable="true" type="xs:string" />
+      <xs:element name="OPERATION" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SOURCE_OPERATION" type="xs:string" />
+      <xs:element minOccurs="0" name="SOURCE_USERID" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINATION" type="xs:string" />
+      <xs:element minOccurs="0" name="MULTITRIPID" type="xs:string" />
+      <xs:element minOccurs="0" name="FUNCTIONID" type="xs:string" />
+      <xs:element minOccurs="0" name="ACTION" type="xs:string" />
+      <xs:element minOccurs="0" name="MSGSTAT" type="tns:MsgStatType" />
+      <xs:element minOccurs="0" name="PASSWORD" type="xs:string" />
+      <xs:element minOccurs="0" name="ADDL">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" name="PARAM">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="NAME" type="xs:string" />
+                  <xs:element name="VALUE" type="xs:string" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractMsgs-PK-Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FCCREF" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractMsgs-IO-Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FCCREF" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MessageDetails">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ESN" type="xs:decimal" />
+            <xs:element minOccurs="0" name="MSGTYPE" type="xs:string" />
+            <xs:element minOccurs="0" name="RECEIVER" type="xs:string" />
+            <xs:element minOccurs="0" name="MSGSTATUS" type="xs:string" />
+            <xs:element minOccurs="0" name="MESSAGE" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractMsgs-Full-Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FCCREF" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MessageDetails">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ESN" type="xs:decimal" />
+            <xs:element minOccurs="0" name="MSGTYPE" type="xs:string" />
+            <xs:element minOccurs="0" name="RECEIVER" type="xs:string" />
+            <xs:element minOccurs="0" name="MSGSTATUS" type="xs:string" />
+            <xs:element minOccurs="0" name="MESSAGE" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ERRORType">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="ERROR" type="tns:ERRORDETAILSType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ERRORDETAILSType">
+    <xs:sequence>
+      <xs:element name="ECODE" type="xs:string" />
+      <xs:element name="EDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="WARNINGType">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="WARNING" type="tns:WARNINGDETAILSType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="WARNINGDETAILSType">
+    <xs:sequence>
+      <xs:element name="WCODE" type="xs:string" />
+      <xs:element name="WDESC" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractMsgs-Modify-IO-Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FCCREF" type="xs:string" />
+      <xs:element minOccurs="0" name="MODNO" type="xs:integer" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MessageDetails">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ESN" type="xs:decimal" />
+            <xs:element minOccurs="0" name="MSGTYPE" type="xs:string" />
+            <xs:element minOccurs="0" name="RECEIVER" type="xs:string" />
+            <xs:element minOccurs="0" name="MSGSTATUS" type="xs:string" />
+            <xs:element minOccurs="0" name="MESSAGE" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FCUBS_NotifHeaderType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="SOURCE" type="xs:string" />
+      <xs:element name="MSGID" type="xs:string" />
+      <xs:element name="NOTIF_REF_NO" type="xs:string" />
+      <xs:element name="BRANCH" type="xs:string" />
+      <xs:element name="NOTIF_CODE" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINATION" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractMsgs-PK-ACR-Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FCCREF" type="xs:string" />
+      <xs:element minOccurs="0" name="MODNO" type="xs:integer" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="UBSCOMPType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="FCUBS" />
+      <xs:enumeration value="FCIS" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="MsgStatType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="SUCCESS" />
+      <xs:enumeration value="WARNING" />
+      <xs:enumeration value="FAILURE" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

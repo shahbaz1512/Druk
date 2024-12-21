@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://types.ws.gw.fcubs.ofss.com" name="FCUBSAccFinService" targetNamespace="http://types.ws.gw.fcubs.ofss.com" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://172.17.250.15:7070/FCUBSAccFinService/FCUBSAccFinService?xsd=1" namespace="http://fcubs.ofss.com/service/FCUBSAccFinService" />
+    </xsd:schema>
+  </types>
+  <message name="FinancialCycleQueryIO">
+    <part xmlns:ns1="http://fcubs.ofss.com/service/FCUBSAccFinService" name="RequestMsg" element="ns1:FINANCIALCYCLEQUERY_IOFS_REQ" />
+  </message>
+  <message name="FinancialCycleQueryIOResponse">
+    <part xmlns:ns2="http://fcubs.ofss.com/service/FCUBSAccFinService" name="ResponseMsg" element="ns2:FINANCIALCYCLEQUERY_IOFS_RES" />
+  </message>
+  <message name="QueryFinancialCycleIO">
+    <part xmlns:ns3="http://fcubs.ofss.com/service/FCUBSAccFinService" name="RequestMsg" element="ns3:QUERYFINANCIALCYCLE_IOFS_REQ" />
+  </message>
+  <message name="QueryFinancialCycleIOResponse">
+    <part xmlns:ns4="http://fcubs.ofss.com/service/FCUBSAccFinService" name="ResponseMsg" element="ns4:QUERYFINANCIALCYCLE_IOFS_RES" />
+  </message>
+  <message name="RequestAccStmtIO">
+    <part xmlns:ns5="http://fcubs.ofss.com/service/FCUBSAccFinService" name="RequestMsg" element="ns5:REQUESTACCSTMT_IOFS_REQ" />
+  </message>
+  <message name="RequestAccStmtIOResponse">
+    <part xmlns:ns6="http://fcubs.ofss.com/service/FCUBSAccFinService" name="ResponseMsg" element="ns6:REQUESTACCSTMT_IOFS_RES" />
+  </message>
+  <portType name="FCUBSAccFinServiceSEI">
+    <operation name="FinancialCycleQueryIO">
+      <input message="tns:FinancialCycleQueryIO" />
+      <output message="tns:FinancialCycleQueryIOResponse" />
+    </operation>
+    <operation name="QueryFinancialCycleIO">
+      <input message="tns:QueryFinancialCycleIO" />
+      <output message="tns:QueryFinancialCycleIOResponse" />
+    </operation>
+    <operation name="RequestAccStmtIO">
+      <input message="tns:RequestAccStmtIO" />
+      <output message="tns:RequestAccStmtIOResponse" />
+    </operation>
+  </portType>
+  <binding name="FCUBSAccFinServiceSEIBinding" type="tns:FCUBSAccFinServiceSEI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="FinancialCycleQueryIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryFinancialCycleIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="RequestAccStmtIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FCUBSAccFinService">
+    <port name="FCUBSAccFinServiceSEI" binding="tns:FCUBSAccFinServiceSEIBinding">
+      <soap:address location="http://172.17.250.15:7070/FCUBSAccFinService/FCUBSAccFinService" />
+    </port>
+  </service>
+</definitions>

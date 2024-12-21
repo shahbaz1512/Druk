@@ -1,0 +1,10 @@
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\bin\Debug\SwitchCommonDetails.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\bin\Debug\SwitchCommonDetails.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\obj\Debug\SwitchLogger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\bin\Debug\SwitchLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\bin\Debug\SwitchLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\obj\Debug\SwitchLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\MaxiSwitchServer\SwitchLogger\obj\Debug\SwitchLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\SwitchLogger\obj\Debug\SwitchLogger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\SwitchLogger\obj\Debug\SwitchLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\SwitchLogger\obj\Debug\SwitchLogger.pdb

@@ -1,0 +1,82 @@
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\HsmCommunication.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\HsmCommunication.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Release\HsmCommunication.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Release\HsmCommunication.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\HsmCommunication.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\HsmCommunication.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmCommunication.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmCommunication.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\HsmCommunication.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\HsmCommunication.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmCommunication.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Release\HsmCommunication.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\HsmCommunication.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\HsmCommunication.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmCommunication.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Release\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Release\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Release\HsmInterface.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Release\HsmInterface.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Release\HsmInterface.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Release\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Release\HsmCommunication.pdb

@@ -1,0 +1,645 @@
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\obj\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\obj\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Utilities.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Utilities.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmCommunication\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek Work\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Bhutan Development Bank\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Bhutan Development Bank\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Bhutan Development Bank\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\SVCB\New Build\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\SVCB\New Build\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\SVCB\New Build\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\HSMLogger.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\bin\Debug\HSMLogger.pdb
+D:\Bhutan National Bank\HSM Server\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Bhutan National Bank\HSM Server\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Bhutan National Bank\HSM Server\HsmInterface\obj\Debug\HsmCommunication.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\HsmCommunication.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\HsmCommunication.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\MIIPL.Common.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Debug\HsmCommunication.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\HsmInterface\obj\Debug\HsmCommunication.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\HsmCommunication.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\HsmCommunication.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmCommunication.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmInterface.csprojResolveAssemblyReference.cache
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HsmInterface\obj\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\HsmCommunication.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\obj\Debug\HsmInterface.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\obj\Debug\HsmInterface.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\obj\Debug\HsmInterface.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\obj\Debug\HsmCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HsmInterface\obj\Debug\HsmCommunication.pdb

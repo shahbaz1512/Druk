@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://com.ascend.core/services" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:i0="http://com.ascend.core/services/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://com.ascend.core/services" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:import namespace="http://com.ascend.core/services/" location="http://119.2.119.196/Service.svc?wsdl" />
+  <wsdl:types />
+  <wsdl:binding name="BasicHttpBinding_AscendBankingApi_WcfService" type="i0:AscendBankingApi_WcfService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetBranchInformation">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetBranchInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPsoInformation">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetPsoInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCountryInformation">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetCountryInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDistrictInformation">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetDistrictInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSubDistrictInformation">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetSubDistrictInformation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeDeposit">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeDeposit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeWithdrawal">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeWithdrawal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeFundTransfer">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeFundTransfer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeLoanRepayment">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeLoanRepayment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeBalanceEnquiry">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiry" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeBalanceEnquiryByNationalId">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiryByNationalId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckRequestStatus">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/CheckRequestStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReverseTransaction">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/ReverseTransaction" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TopupMobilePhone">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/TopupMobilePhone" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PayUtilityBill">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/PayUtilityBill" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateNewSingleAccount">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/CreateNewSingleAccount" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterExistingCustomer">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/RegisterExistingCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMiniStatement">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/GetMiniStatement" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsAgentAccountValid">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/IsAgentAccountValid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeEmiEnquiryByNationalId">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeEmiEnquiryByNationalId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeRentalPayment">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalPayment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MakeRentalEnquiry">
+      <soap:operation soapAction="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalEnquiry" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+</wsdl:definitions>

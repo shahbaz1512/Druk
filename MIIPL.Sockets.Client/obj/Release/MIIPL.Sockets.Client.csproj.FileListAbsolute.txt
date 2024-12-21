@@ -1,0 +1,74 @@
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Client\obj\Release\MIIPL.Sockets.Client.pdb

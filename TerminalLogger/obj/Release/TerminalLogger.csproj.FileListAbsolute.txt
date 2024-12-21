@@ -1,0 +1,51 @@
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\bin\Release\TerminalLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\bin\Release\TerminalLogger.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\obj\Release\TerminalLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\TerminalLogger\obj\Release\TerminalLogger.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\TerminalLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\TerminalLogger.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\TerminalLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\TerminalLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\TerminalLogger\obj\Release\TerminalLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\bin\Release\TerminalLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\bin\Release\TerminalLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\bin\Release\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\obj\Release\TerminalLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\TerminalLogger\obj\Release\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\bin\Release\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\bin\Release\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\obj\Release\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\TerminalLogger\obj\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\bin\Release\MIIPL.Utilities.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\TerminalLogger\obj\Release\TerminalLogger.pdb

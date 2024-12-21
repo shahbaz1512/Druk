@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://types.ws.gw.fcubs.ofss.com" name="FCUBSUPService" targetNamespace="http://types.ws.gw.fcubs.ofss.com" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://172.17.250.15:7070/FCUBSUPService/FCUBSUPService?xsd=1" namespace="http://fcubs.ofss.com/service/FCUBSUPService" />
+    </xsd:schema>
+  </types>
+  <message name="AuthorizeBillInstrFS">
+    <part xmlns:ns1="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns1:AUTHORIZEBILLINSTR_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeBillInstrFSResponse">
+    <part xmlns:ns2="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns2:AUTHORIZEBILLINSTR_FSFS_RES" />
+  </message>
+  <message name="AuthorizeBillInstrIO">
+    <part xmlns:ns3="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns3:AUTHORIZEBILLINSTR_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeBillInstrIOResponse">
+    <part xmlns:ns4="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns4:AUTHORIZEBILLINSTR_IOPK_RES" />
+  </message>
+  <message name="CreateBillInstrFS">
+    <part xmlns:ns5="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns5:CREATEBILLINSTR_FSFS_REQ" />
+  </message>
+  <message name="CreateBillInstrFSResponse">
+    <part xmlns:ns6="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns6:CREATEBILLINSTR_FSFS_RES" />
+  </message>
+  <message name="CreateBillInstrIO">
+    <part xmlns:ns7="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns7:CREATEBILLINSTR_IOPK_REQ" />
+  </message>
+  <message name="CreateBillInstrIOResponse">
+    <part xmlns:ns8="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns8:CREATEBILLINSTR_IOPK_RES" />
+  </message>
+  <message name="CreateUPTransactionFS">
+    <part xmlns:ns9="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns9:CREATEUPTRANSACTION_FSFS_REQ" />
+  </message>
+  <message name="CreateUPTransactionFSResponse">
+    <part xmlns:ns10="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns10:CREATEUPTRANSACTION_FSFS_RES" />
+  </message>
+  <message name="CreateUPTransactionIO">
+    <part xmlns:ns11="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns11:CREATEUPTRANSACTION_IOPK_REQ" />
+  </message>
+  <message name="CreateUPTransactionIOResponse">
+    <part xmlns:ns12="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns12:CREATEUPTRANSACTION_IOPK_RES" />
+  </message>
+  <message name="DeleteBillInstrFS">
+    <part xmlns:ns13="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns13:DELETEBILLINSTR_FSFS_REQ" />
+  </message>
+  <message name="DeleteBillInstrFSResponse">
+    <part xmlns:ns14="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns14:DELETEBILLINSTR_FSFS_RES" />
+  </message>
+  <message name="DeleteBillInstrIO">
+    <part xmlns:ns15="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns15:DELETEBILLINSTR_IOPK_REQ" />
+  </message>
+  <message name="DeleteBillInstrIOResponse">
+    <part xmlns:ns16="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns16:DELETEBILLINSTR_IOPK_RES" />
+  </message>
+  <message name="ModifyBillInstrFS">
+    <part xmlns:ns17="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns17:MODIFYBILLINSTR_FSFS_REQ" />
+  </message>
+  <message name="ModifyBillInstrFSResponse">
+    <part xmlns:ns18="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns18:MODIFYBILLINSTR_FSFS_RES" />
+  </message>
+  <message name="ModifyBillInstrIO">
+    <part xmlns:ns19="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns19:MODIFYBILLINSTR_IOPK_REQ" />
+  </message>
+  <message name="ModifyBillInstrIOResponse">
+    <part xmlns:ns20="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns20:MODIFYBILLINSTR_IOPK_RES" />
+  </message>
+  <message name="QueryBillInstrIO">
+    <part xmlns:ns21="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns21:QUERYBILLINSTR_IOFS_REQ" />
+  </message>
+  <message name="QueryBillInstrIOResponse">
+    <part xmlns:ns22="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns22:QUERYBILLINSTR_IOFS_RES" />
+  </message>
+  <message name="QueryUPTransactionIO">
+    <part xmlns:ns23="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns23:QUERYUPTRANSACTION_IOFS_REQ" />
+  </message>
+  <message name="QueryUPTransactionIOResponse">
+    <part xmlns:ns24="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns24:QUERYUPTRANSACTION_IOFS_RES" />
+  </message>
+  <message name="ReverseUPTransactionFS">
+    <part xmlns:ns25="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns25:REVERSEUPTRANSACTION_FSFS_REQ" />
+  </message>
+  <message name="ReverseUPTransactionFSResponse">
+    <part xmlns:ns26="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns26:REVERSEUPTRANSACTION_FSFS_RES" />
+  </message>
+  <message name="ReverseUPTransactionIO">
+    <part xmlns:ns27="http://fcubs.ofss.com/service/FCUBSUPService" name="RequestMsg" element="ns27:REVERSEUPTRANSACTION_IOPK_REQ" />
+  </message>
+  <message name="ReverseUPTransactionIOResponse">
+    <part xmlns:ns28="http://fcubs.ofss.com/service/FCUBSUPService" name="ResponseMsg" element="ns28:REVERSEUPTRANSACTION_IOPK_RES" />
+  </message>
+  <portType name="FCUBSUPServiceSEI">
+    <operation name="AuthorizeBillInstrFS">
+      <input message="tns:AuthorizeBillInstrFS" />
+      <output message="tns:AuthorizeBillInstrFSResponse" />
+    </operation>
+    <operation name="AuthorizeBillInstrIO">
+      <input message="tns:AuthorizeBillInstrIO" />
+      <output message="tns:AuthorizeBillInstrIOResponse" />
+    </operation>
+    <operation name="CreateBillInstrFS">
+      <input message="tns:CreateBillInstrFS" />
+      <output message="tns:CreateBillInstrFSResponse" />
+    </operation>
+    <operation name="CreateBillInstrIO">
+      <input message="tns:CreateBillInstrIO" />
+      <output message="tns:CreateBillInstrIOResponse" />
+    </operation>
+    <operation name="CreateUPTransactionFS">
+      <input message="tns:CreateUPTransactionFS" />
+      <output message="tns:CreateUPTransactionFSResponse" />
+    </operation>
+    <operation name="CreateUPTransactionIO">
+      <input message="tns:CreateUPTransactionIO" />
+      <output message="tns:CreateUPTransactionIOResponse" />
+    </operation>
+    <operation name="DeleteBillInstrFS">
+      <input message="tns:DeleteBillInstrFS" />
+      <output message="tns:DeleteBillInstrFSResponse" />
+    </operation>
+    <operation name="DeleteBillInstrIO">
+      <input message="tns:DeleteBillInstrIO" />
+      <output message="tns:DeleteBillInstrIOResponse" />
+    </operation>
+    <operation name="ModifyBillInstrFS">
+      <input message="tns:ModifyBillInstrFS" />
+      <output message="tns:ModifyBillInstrFSResponse" />
+    </operation>
+    <operation name="ModifyBillInstrIO">
+      <input message="tns:ModifyBillInstrIO" />
+      <output message="tns:ModifyBillInstrIOResponse" />
+    </operation>
+    <operation name="QueryBillInstrIO">
+      <input message="tns:QueryBillInstrIO" />
+      <output message="tns:QueryBillInstrIOResponse" />
+    </operation>
+    <operation name="QueryUPTransactionIO">
+      <input message="tns:QueryUPTransactionIO" />
+      <output message="tns:QueryUPTransactionIOResponse" />
+    </operation>
+    <operation name="ReverseUPTransactionFS">
+      <input message="tns:ReverseUPTransactionFS" />
+      <output message="tns:ReverseUPTransactionFSResponse" />
+    </operation>
+    <operation name="ReverseUPTransactionIO">
+      <input message="tns:ReverseUPTransactionIO" />
+      <output message="tns:ReverseUPTransactionIOResponse" />
+    </operation>
+  </portType>
+  <binding name="FCUBSUPServiceSEIBinding" type="tns:FCUBSUPServiceSEI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="AuthorizeBillInstrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeBillInstrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateBillInstrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateBillInstrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateUPTransactionFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateUPTransactionIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteBillInstrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteBillInstrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyBillInstrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyBillInstrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryBillInstrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryUPTransactionIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReverseUPTransactionFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReverseUPTransactionIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FCUBSUPService">
+    <port name="FCUBSUPServiceSEI" binding="tns:FCUBSUPServiceSEIBinding">
+      <soap:address location="http://172.17.250.15:7070/FCUBSUPService/FCUBSUPService" />
+    </port>
+  </service>
+</definitions>

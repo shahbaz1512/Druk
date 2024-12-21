@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://com.ascend.core/services/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:i0="http://com.ascend.core/services" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service" targetNamespace="http://com.ascend.core/services/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:import namespace="http://com.ascend.core/services" location="http://119.2.119.196/Service.svc?wsdl=wsdl0" />
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://com.ascend.core/services/Imports">
+      <xsd:import schemaLocation="http://119.2.119.196/Service.svc?xsd=xsd0" namespace="http://com.ascend.core/services/" />
+      <xsd:import schemaLocation="http://119.2.119.196/Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://119.2.119.196/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/AscendBankingAPI" />
+      <xsd:import schemaLocation="http://119.2.119.196/Service.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="AscendBankingApi_WcfService_GetBranchInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetBranchInformation" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetBranchInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetBranchInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetPsoInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPsoInformation" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetPsoInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPsoInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetCountryInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountryInformation" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetCountryInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountryInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetDistrictInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistrictInformation" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetDistrictInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistrictInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetSubDistrictInformation_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSubDistrictInformation" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetSubDistrictInformation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSubDistrictInformationResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeDeposit_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeDeposit" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeDeposit_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeDepositResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeWithdrawal_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeWithdrawal" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeWithdrawal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeWithdrawalResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeFundTransfer_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeFundTransfer" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeFundTransfer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeFundTransferResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeLoanRepayment_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeLoanRepayment" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeLoanRepayment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeLoanRepaymentResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeBalanceEnquiry_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeBalanceEnquiry" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeBalanceEnquiry_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeBalanceEnquiryResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeBalanceEnquiryByNationalId_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeBalanceEnquiryByNationalId" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeBalanceEnquiryByNationalId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeBalanceEnquiryByNationalIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_CheckRequestStatus_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckRequestStatus" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_CheckRequestStatus_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckRequestStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_ReverseTransaction_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReverseTransaction" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_ReverseTransaction_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReverseTransactionResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_TopupMobilePhone_InputMessage">
+    <wsdl:part name="parameters" element="tns:TopupMobilePhone" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_TopupMobilePhone_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TopupMobilePhoneResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_PayUtilityBill_InputMessage">
+    <wsdl:part name="parameters" element="tns:PayUtilityBill" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_PayUtilityBill_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PayUtilityBillResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_CreateNewSingleAccount_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateNewSingleAccount" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_CreateNewSingleAccount_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateNewSingleAccountResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_RegisterExistingCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterExistingCustomer" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_RegisterExistingCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterExistingCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetMiniStatement_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMiniStatement" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_GetMiniStatement_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMiniStatementResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_IsAgentAccountValid_InputMessage">
+    <wsdl:part name="parameters" element="tns:IsAgentAccountValid" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_IsAgentAccountValid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IsAgentAccountValidResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeEmiEnquiryByNationalId_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeEmiEnquiryByNationalId" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeEmiEnquiryByNationalId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeEmiEnquiryByNationalIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeRentalPayment_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeRentalPayment" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeRentalPayment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeRentalPaymentResponse" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeRentalEnquiry_InputMessage">
+    <wsdl:part name="parameters" element="tns:MakeRentalEnquiry" />
+  </wsdl:message>
+  <wsdl:message name="AscendBankingApi_WcfService_MakeRentalEnquiry_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MakeRentalEnquiryResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AscendBankingApi_WcfService">
+    <wsdl:operation name="GetBranchInformation">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetBranchInformation" message="tns:AscendBankingApi_WcfService_GetBranchInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetBranchInformationResponse" message="tns:AscendBankingApi_WcfService_GetBranchInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPsoInformation">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetPsoInformation" message="tns:AscendBankingApi_WcfService_GetPsoInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetPsoInformationResponse" message="tns:AscendBankingApi_WcfService_GetPsoInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCountryInformation">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetCountryInformation" message="tns:AscendBankingApi_WcfService_GetCountryInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetCountryInformationResponse" message="tns:AscendBankingApi_WcfService_GetCountryInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDistrictInformation">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetDistrictInformation" message="tns:AscendBankingApi_WcfService_GetDistrictInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetDistrictInformationResponse" message="tns:AscendBankingApi_WcfService_GetDistrictInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSubDistrictInformation">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetSubDistrictInformation" message="tns:AscendBankingApi_WcfService_GetSubDistrictInformation_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetSubDistrictInformationResponse" message="tns:AscendBankingApi_WcfService_GetSubDistrictInformation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeDeposit">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeDeposit" message="tns:AscendBankingApi_WcfService_MakeDeposit_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeDepositResponse" message="tns:AscendBankingApi_WcfService_MakeDeposit_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeWithdrawal">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeWithdrawal" message="tns:AscendBankingApi_WcfService_MakeWithdrawal_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeWithdrawalResponse" message="tns:AscendBankingApi_WcfService_MakeWithdrawal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeFundTransfer">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeFundTransfer" message="tns:AscendBankingApi_WcfService_MakeFundTransfer_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeFundTransferResponse" message="tns:AscendBankingApi_WcfService_MakeFundTransfer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeLoanRepayment">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeLoanRepayment" message="tns:AscendBankingApi_WcfService_MakeLoanRepayment_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeLoanRepaymentResponse" message="tns:AscendBankingApi_WcfService_MakeLoanRepayment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeBalanceEnquiry">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiry" message="tns:AscendBankingApi_WcfService_MakeBalanceEnquiry_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiryResponse" message="tns:AscendBankingApi_WcfService_MakeBalanceEnquiry_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeBalanceEnquiryByNationalId">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiryByNationalId" message="tns:AscendBankingApi_WcfService_MakeBalanceEnquiryByNationalId_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeBalanceEnquiryByNationalIdResponse" message="tns:AscendBankingApi_WcfService_MakeBalanceEnquiryByNationalId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckRequestStatus">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/CheckRequestStatus" message="tns:AscendBankingApi_WcfService_CheckRequestStatus_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/CheckRequestStatusResponse" message="tns:AscendBankingApi_WcfService_CheckRequestStatus_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReverseTransaction">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/ReverseTransaction" message="tns:AscendBankingApi_WcfService_ReverseTransaction_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/ReverseTransactionResponse" message="tns:AscendBankingApi_WcfService_ReverseTransaction_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TopupMobilePhone">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/TopupMobilePhone" message="tns:AscendBankingApi_WcfService_TopupMobilePhone_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/TopupMobilePhoneResponse" message="tns:AscendBankingApi_WcfService_TopupMobilePhone_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PayUtilityBill">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/PayUtilityBill" message="tns:AscendBankingApi_WcfService_PayUtilityBill_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/PayUtilityBillResponse" message="tns:AscendBankingApi_WcfService_PayUtilityBill_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateNewSingleAccount">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/CreateNewSingleAccount" message="tns:AscendBankingApi_WcfService_CreateNewSingleAccount_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/CreateNewSingleAccountResponse" message="tns:AscendBankingApi_WcfService_CreateNewSingleAccount_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterExistingCustomer">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/RegisterExistingCustomer" message="tns:AscendBankingApi_WcfService_RegisterExistingCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/RegisterExistingCustomerResponse" message="tns:AscendBankingApi_WcfService_RegisterExistingCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMiniStatement">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetMiniStatement" message="tns:AscendBankingApi_WcfService_GetMiniStatement_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/GetMiniStatementResponse" message="tns:AscendBankingApi_WcfService_GetMiniStatement_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IsAgentAccountValid">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/IsAgentAccountValid" message="tns:AscendBankingApi_WcfService_IsAgentAccountValid_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/IsAgentAccountValidResponse" message="tns:AscendBankingApi_WcfService_IsAgentAccountValid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeEmiEnquiryByNationalId">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeEmiEnquiryByNationalId" message="tns:AscendBankingApi_WcfService_MakeEmiEnquiryByNationalId_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeEmiEnquiryByNationalIdResponse" message="tns:AscendBankingApi_WcfService_MakeEmiEnquiryByNationalId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeRentalPayment">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalPayment" message="tns:AscendBankingApi_WcfService_MakeRentalPayment_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalPaymentResponse" message="tns:AscendBankingApi_WcfService_MakeRentalPayment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MakeRentalEnquiry">
+      <wsdl:input wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalEnquiry" message="tns:AscendBankingApi_WcfService_MakeRentalEnquiry_InputMessage" />
+      <wsdl:output wsaw:Action="http://com.ascend.core/services/AscendBankingApi_WcfService/MakeRentalEnquiryResponse" message="tns:AscendBankingApi_WcfService_MakeRentalEnquiry_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="Service">
+    <wsdl:port name="BasicHttpBinding_AscendBankingApi_WcfService" binding="i0:BasicHttpBinding_AscendBankingApi_WcfService">
+      <soap:address location="http://119.2.119.196/Service.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

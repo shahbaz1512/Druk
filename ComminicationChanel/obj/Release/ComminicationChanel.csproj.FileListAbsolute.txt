@@ -1,0 +1,62 @@
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\BIPS.Communication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\BIPS.Communication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\HsmCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\KEK.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\HsmCommunication.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\obj\Release\ComminicationChanel.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\obj\Release\BIPS.Communication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\ComminicationChanel\obj\Release\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\KEK.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\obj\Release\ComminicationChanel.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\obj\Release\ComminicationChanel.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\obj\Release\ComminicationChanel.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\obj\Release\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\ComminicationChanel\obj\Release\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\BIPS.Communication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\HsmCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\KEK.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\HsmCommunication.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\bin\Release\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\obj\Release\ComminicationChanel.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\obj\Release\BIPS.Communication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\ComminicationChanel\obj\Release\BIPS.Communication.pdb

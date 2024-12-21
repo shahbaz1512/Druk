@@ -1,0 +1,746 @@
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\KEK.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\Working\SVN SWITCH\BNBL\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\KEK.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+C:\Users\archana.h.MAXIMUS\Desktop\Agency Switch\AGENCY BANKING\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\New folder (3)\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction_QRMarging\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_QRMarging\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\DPNB\Live Code\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Abhishek handover\Mobile Switch_29092020_1843\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Live Code\Mobile Switch_16072021\Mobile Switch_03032021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCode\DrukPNB\Mobile Switch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\Druk_MobileSwitch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code\DrukPNB\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojResolveAssemblyReference.cache
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\SVN_Code_copy\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\Archana_Code\Running Code\DrukMobileSwitch\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_backup24042024\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_updated\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\Transaction.CommunicationManager.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\DALC.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\ISwitchCommunication.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\DALC.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\TerminalLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\bin\Debug\EncryptionDecryption.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\obj\Debug\CommunicationManager.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch\HostInterface\CommunicationManager\obj\Debug\Transaction.CommunicationManager.pdb

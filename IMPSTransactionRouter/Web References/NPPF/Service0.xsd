@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/AscendBankingAPI" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/AscendBankingAPI" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfBranchInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BranchInformation" nillable="true" type="tns:BranchInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBranchInformation" nillable="true" type="tns:ArrayOfBranchInformation" />
+  <xs:complexType name="BranchInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BranchCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BranchName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BranchInformation" nillable="true" type="tns:BranchInformation" />
+  <xs:complexType name="ArrayOfPsoInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PsoInformation" nillable="true" type="tns:PsoInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPsoInformation" nillable="true" type="tns:ArrayOfPsoInformation" />
+  <xs:complexType name="PsoInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PsoId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PsoName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PsoInformation" nillable="true" type="tns:PsoInformation" />
+  <xs:complexType name="ArrayOfCountryInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CountryInformation" nillable="true" type="tns:CountryInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCountryInformation" nillable="true" type="tns:ArrayOfCountryInformation" />
+  <xs:complexType name="CountryInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CountryName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CountryInformation" nillable="true" type="tns:CountryInformation" />
+  <xs:complexType name="ArrayOfDistrictInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DistrictInformation" nillable="true" type="tns:DistrictInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDistrictInformation" nillable="true" type="tns:ArrayOfDistrictInformation" />
+  <xs:complexType name="DistrictInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DistrictId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DistrictName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DistrictInformation" nillable="true" type="tns:DistrictInformation" />
+  <xs:complexType name="ArrayOfSubDistrictInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="SubDistrictInformation" nillable="true" type="tns:SubDistrictInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSubDistrictInformation" nillable="true" type="tns:ArrayOfSubDistrictInformation" />
+  <xs:complexType name="SubDistrictInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DistrictId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SubDistrictId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SubDistrictName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SubDistrictInformation" nillable="true" type="tns:SubDistrictInformation" />
+</xs:schema>

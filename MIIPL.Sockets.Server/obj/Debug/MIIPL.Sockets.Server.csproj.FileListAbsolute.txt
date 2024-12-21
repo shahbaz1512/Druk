@@ -1,0 +1,830 @@
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Projects\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+C:\Project\ATHMA_SERVER_AGENT\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+C:\Project\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\MaxiSwitch\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\MaxiSwitch\MIIPL.Library\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\MaxiSwitch\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MaxiSwitch\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\MaxiSwitch\MIIPL.Library\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\IBTG\IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\IBTG\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\IBTG\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+J:\Projects\IBTG Simple\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+J:\Projects\IBTG Simple\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+J:\Projects\IBTG Simple\IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\IBTG Simple\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+J:\Projects\IBTG Simple\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+J:\Projects\Simple IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+J:\Projects\Simple IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+J:\Projects\Simple IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Simple IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+J:\Projects\Simple IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\IBTG\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Project\IBTGNEW\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Project\IBTGNEW\IBTG10OCT2011\IBTG\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\KCCB\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\IBTG\IBTG_Code\IBTG_NPCI_Updated\IBTG_NPCI25Feb2012\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\KCCB-NPCI\IBTG_NPCI\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Old System\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\khadar\Banks\SVCB\Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek\SVCB App\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Projects\DotNet\IBTG-NPCI-CUCB\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\SVCB_Live\NPCI-Simulator\NPCI-Simulator\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\SVCB_Latest_Files_01June13\SVCB_Old_Files_Simulator&Host\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\Hindustan Bank\Mithlesh\amit rough work\amit rough work\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\Hindustan\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HUCB_PADSS\Live Testing Code\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSM Utility\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSM Utility\Service\NPCI-Simulator_SCVB\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\PA-DSS\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HSMManager\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\HSMManager\amit\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Amit Work\Switch\PA-DSS\MultiConnection\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\PADSS\Hindusthan Live Code\Multiconnect\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\HSMManager\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing HSM Manager\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek Work\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Abhishek_Original\AbhishekWork\Code Backup\SREI WLA\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan Development Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\SVCB\New Build\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Bhutan National Bank\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\UAT CODE\HSM Server\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\IMPSTransactionRouter\IMPSTransactionRouter\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+G:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Working\BNB\Code\Code\BNBL RUNNING CODE\MOBILE BANKING SERVICE\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Working\SVN SWITCH\BNBL\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\TashiCellWallet\MPAY MOBILE BANKING\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\Till procduction\MPAY MOBILE BANKING - Production Build\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING - Production Build_Onproduction - Changes NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_PRO_resetMpin\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Vivek\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production_Finaltill17072020\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_NQRC_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production_TillTashiCellChanges\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\BNBL_Flexi\MPAY MOBILE BANKING_Production\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\DPNB\Live Code\Mobile Switch\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Ankit Projects 30-09-2020\Druk\Mobile Switch12102020\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Mobile Switch_Running\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\DrukMpay\Shehbazcode\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+C:\Users\shahbaz.khan.MAXIMUS\Downloads\Mobile Switch26022021 (1)\Mobile Switch25022021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Live Code\Mobile Switch\Mobile Switch_03032021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_backup06082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\Druk_GBA\Druk_SK\Mobile Switch_bckup10082021\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCode\DrukPNB\Mobile Switch\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Archana\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojResolveAssemblyReference.cache
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\Archana DNPB\Druk_MobileSwitch_UATBuild140320221\Druk_MobileSwitch_UATBuild14032022\Druk_MobileSwitch_UATBuild\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\shahbaz\DrukMobileSwitch_UAT06052022\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+D:\KIRAN\Shebhaz\Druk\Latest_Druk_16_Nov_22\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Server.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\HSMLogger.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Common.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\bin\Debug\MIIPL.Sockets.Client.pdb
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csprojAssemblyReference.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CoreCompileInputs.cache
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.csproj.CopyComplete
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.dll
+E:\LiveCodes\DrukPNB\DrukMobileSwitch_19032024\DrukMobileSwitch_UAT\MIIPL.Sockets.Server\obj\Debug\MIIPL.Sockets.Server.pdb

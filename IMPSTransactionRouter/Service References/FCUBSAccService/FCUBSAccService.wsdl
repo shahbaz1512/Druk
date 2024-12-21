@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://types.ws.gw.fcubs.ofss.com" name="FCUBSAccService" targetNamespace="http://types.ws.gw.fcubs.ofss.com" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://172.17.250.15:7070/FCUBSAccService/FCUBSAccService?xsd=1" namespace="http://fcubs.ofss.com/service/FCUBSAccService" />
+    </xsd:schema>
+  </types>
+  <message name="AuthorizeAcClassTfrFS">
+    <part xmlns:ns1="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns1:AUTHORIZEACCLASSTFR_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeAcClassTfrFSResponse">
+    <part xmlns:ns2="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns2:AUTHORIZEACCLASSTFR_FSFS_RES" />
+  </message>
+  <message name="AuthorizeAcClassTfrIO">
+    <part xmlns:ns3="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns3:AUTHORIZEACCLASSTFR_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeAcClassTfrIOResponse">
+    <part xmlns:ns4="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns4:AUTHORIZEACCLASSTFR_IOPK_RES" />
+  </message>
+  <message name="AuthorizeCheckBookFS">
+    <part xmlns:ns5="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns5:AUTHORIZECHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeCheckBookFSResponse">
+    <part xmlns:ns6="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns6:AUTHORIZECHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="AuthorizeCheckBookIO">
+    <part xmlns:ns7="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns7:AUTHORIZECHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeCheckBookIOResponse">
+    <part xmlns:ns8="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns8:AUTHORIZECHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="AuthorizeCustAccFS">
+    <part xmlns:ns9="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns9:AUTHORIZECUSTACC_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeCustAccFSResponse">
+    <part xmlns:ns10="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns10:AUTHORIZECUSTACC_FSFS_RES" />
+  </message>
+  <message name="AuthorizeCustAccIO">
+    <part xmlns:ns11="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns11:AUTHORIZECUSTACC_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeCustAccIOResponse">
+    <part xmlns:ns12="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns12:AUTHORIZECUSTACC_IOPK_RES" />
+  </message>
+  <message name="AuthorizeStopPaymentsFS">
+    <part xmlns:ns13="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns13:AUTHORIZESTOPPAYMENTS_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeStopPaymentsFSResponse">
+    <part xmlns:ns14="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns14:AUTHORIZESTOPPAYMENTS_FSFS_RES" />
+  </message>
+  <message name="AuthorizeStopPaymentsIO">
+    <part xmlns:ns15="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns15:AUTHORIZESTOPPAYMENTS_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeStopPaymentsIOResponse">
+    <part xmlns:ns16="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns16:AUTHORIZESTOPPAYMENTS_IOPK_RES" />
+  </message>
+  <message name="AuthorizeTDCustAccFS">
+    <part xmlns:ns17="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns17:AUTHORIZETDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="AuthorizeTDCustAccFSResponse">
+    <part xmlns:ns18="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns18:AUTHORIZETDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="AuthorizeTDCustAccIO">
+    <part xmlns:ns19="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns19:AUTHORIZETDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="AuthorizeTDCustAccIOResponse">
+    <part xmlns:ns20="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns20:AUTHORIZETDCUSTACC_IOPK_RES" />
+  </message>
+  <message name="CheckDetailsQueryIO">
+    <part xmlns:ns21="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns21:CHECKDETAILSQUERY_IOFS_REQ" />
+  </message>
+  <message name="CheckDetailsQueryIOResponse">
+    <part xmlns:ns22="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns22:CHECKDETAILSQUERY_IOFS_RES" />
+  </message>
+  <message name="CloseCheckBookFS">
+    <part xmlns:ns23="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns23:CLOSECHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="CloseCheckBookFSResponse">
+    <part xmlns:ns24="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns24:CLOSECHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="CloseCheckBookIO">
+    <part xmlns:ns25="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns25:CLOSECHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="CloseCheckBookIOResponse">
+    <part xmlns:ns26="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns26:CLOSECHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="CloseCustAccFS">
+    <part xmlns:ns27="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns27:CLOSECUSTACC_FSFS_REQ" />
+  </message>
+  <message name="CloseCustAccFSResponse">
+    <part xmlns:ns28="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns28:CLOSECUSTACC_FSFS_RES" />
+  </message>
+  <message name="CloseCustAccIO">
+    <part xmlns:ns29="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns29:CLOSECUSTACC_IOPK_REQ" />
+  </message>
+  <message name="CloseCustAccIOResponse">
+    <part xmlns:ns30="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns30:CLOSECUSTACC_IOPK_RES" />
+  </message>
+  <message name="CloseStopPaymentsFS">
+    <part xmlns:ns31="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns31:CLOSESTOPPAYMENTS_FSFS_REQ" />
+  </message>
+  <message name="CloseStopPaymentsFSResponse">
+    <part xmlns:ns32="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns32:CLOSESTOPPAYMENTS_FSFS_RES" />
+  </message>
+  <message name="CloseStopPaymentsIO">
+    <part xmlns:ns33="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns33:CLOSESTOPPAYMENTS_IOPK_REQ" />
+  </message>
+  <message name="CloseStopPaymentsIOResponse">
+    <part xmlns:ns34="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns34:CLOSESTOPPAYMENTS_IOPK_RES" />
+  </message>
+  <message name="CloseTDCustAccFS">
+    <part xmlns:ns35="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns35:CLOSETDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="CloseTDCustAccFSResponse">
+    <part xmlns:ns36="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns36:CLOSETDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="CloseTDCustAccIO">
+    <part xmlns:ns37="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns37:CLOSETDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="CloseTDCustAccIOResponse">
+    <part xmlns:ns38="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns38:CLOSETDCUSTACC_IOPK_RES" />
+  </message>
+  <message name="CreateAcClassTfrFS">
+    <part xmlns:ns39="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns39:CREATEACCLASSTFR_FSFS_REQ" />
+  </message>
+  <message name="CreateAcClassTfrFSResponse">
+    <part xmlns:ns40="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns40:CREATEACCLASSTFR_FSFS_RES" />
+  </message>
+  <message name="CreateAcClassTfrIO">
+    <part xmlns:ns41="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns41:CREATEACCLASSTFR_IOPK_REQ" />
+  </message>
+  <message name="CreateAcClassTfrIOResponse">
+    <part xmlns:ns42="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns42:CREATEACCLASSTFR_IOPK_RES" />
+  </message>
+  <message name="CreateCheckBookFS">
+    <part xmlns:ns43="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns43:CREATECHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="CreateCheckBookFSResponse">
+    <part xmlns:ns44="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns44:CREATECHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="CreateCheckBookIO">
+    <part xmlns:ns45="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns45:CREATECHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="CreateCheckBookIOResponse">
+    <part xmlns:ns46="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns46:CREATECHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="CreateCustAccFS">
+    <part xmlns:ns47="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns47:CREATECUSTACC_FSFS_REQ" />
+  </message>
+  <message name="CreateCustAccFSResponse">
+    <part xmlns:ns48="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns48:CREATECUSTACC_FSFS_RES" />
+  </message>
+  <message name="CreateCustAccIO">
+    <part xmlns:ns49="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns49:CREATECUSTACC_IOPK_REQ" />
+  </message>
+  <message name="CreateCustAccIOResponse">
+    <part xmlns:ns50="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns50:CREATECUSTACC_IOPK_RES" />
+  </message>
+  <message name="CreateStopPaymentsFS">
+    <part xmlns:ns51="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns51:CREATESTOPPAYMENTS_FSFS_REQ" />
+  </message>
+  <message name="CreateStopPaymentsFSResponse">
+    <part xmlns:ns52="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns52:CREATESTOPPAYMENTS_FSFS_RES" />
+  </message>
+  <message name="CreateStopPaymentsIO">
+    <part xmlns:ns53="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns53:CREATESTOPPAYMENTS_IOPK_REQ" />
+  </message>
+  <message name="CreateStopPaymentsIOResponse">
+    <part xmlns:ns54="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns54:CREATESTOPPAYMENTS_IOPK_RES" />
+  </message>
+  <message name="CreateTDCustAccFS">
+    <part xmlns:ns55="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns55:CREATETDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="CreateTDCustAccFSResponse">
+    <part xmlns:ns56="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns56:CREATETDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="CreateTDCustAccIO">
+    <part xmlns:ns57="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns57:CREATETDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="CreateTDCustAccIOResponse">
+    <part xmlns:ns58="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns58:CREATETDCUSTACC_IOPK_RES" />
+  </message>
+  <message name="CreateTDSimFS">
+    <part xmlns:ns59="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns59:CREATETDSIM_FSFS_REQ" />
+  </message>
+  <message name="CreateTDSimFSResponse">
+    <part xmlns:ns60="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns60:CREATETDSIM_FSFS_RES" />
+  </message>
+  <message name="CreateTDSimIO">
+    <part xmlns:ns61="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns61:CREATETDSIM_IOPK_REQ" />
+  </message>
+  <message name="CreateTDSimIOResponse">
+    <part xmlns:ns62="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns62:CREATETDSIM_IOPK_RES" />
+  </message>
+  <message name="DeleteAcClassTfrFS">
+    <part xmlns:ns63="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns63:DELETEACCLASSTFR_FSFS_REQ" />
+  </message>
+  <message name="DeleteAcClassTfrFSResponse">
+    <part xmlns:ns64="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns64:DELETEACCLASSTFR_FSFS_RES" />
+  </message>
+  <message name="DeleteAcClassTfrIO">
+    <part xmlns:ns65="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns65:DELETEACCLASSTFR_IOPK_REQ" />
+  </message>
+  <message name="DeleteAcClassTfrIOResponse">
+    <part xmlns:ns66="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns66:DELETEACCLASSTFR_IOPK_RES" />
+  </message>
+  <message name="DeleteCheckBookFS">
+    <part xmlns:ns67="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns67:DELETECHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="DeleteCheckBookFSResponse">
+    <part xmlns:ns68="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns68:DELETECHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="DeleteCheckBookIO">
+    <part xmlns:ns69="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns69:DELETECHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="DeleteCheckBookIOResponse">
+    <part xmlns:ns70="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns70:DELETECHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="DeleteCustAccFS">
+    <part xmlns:ns71="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns71:DELETECUSTACC_FSFS_REQ" />
+  </message>
+  <message name="DeleteCustAccFSResponse">
+    <part xmlns:ns72="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns72:DELETECUSTACC_FSFS_RES" />
+  </message>
+  <message name="DeleteCustAccIO">
+    <part xmlns:ns73="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns73:DELETECUSTACC_IOPK_REQ" />
+  </message>
+  <message name="DeleteCustAccIOResponse">
+    <part xmlns:ns74="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns74:DELETECUSTACC_IOPK_RES" />
+  </message>
+  <message name="DeleteStopPaymentsFS">
+    <part xmlns:ns75="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns75:DELETESTOPPAYMENTS_FSFS_REQ" />
+  </message>
+  <message name="DeleteStopPaymentsFSResponse">
+    <part xmlns:ns76="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns76:DELETESTOPPAYMENTS_FSFS_RES" />
+  </message>
+  <message name="DeleteStopPaymentsIO">
+    <part xmlns:ns77="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns77:DELETESTOPPAYMENTS_IOPK_REQ" />
+  </message>
+  <message name="DeleteStopPaymentsIOResponse">
+    <part xmlns:ns78="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns78:DELETESTOPPAYMENTS_IOPK_RES" />
+  </message>
+  <message name="DeleteTDCustAccFS">
+    <part xmlns:ns79="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns79:DELETETDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="DeleteTDCustAccFSResponse">
+    <part xmlns:ns80="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns80:DELETETDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="DeleteTDCustAccIO">
+    <part xmlns:ns81="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns81:DELETETDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="DeleteTDCustAccIOResponse">
+    <part xmlns:ns82="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns82:DELETETDCUSTACC_IOPK_RES" />
+  </message>
+  <message name="ModifyAcClassTfrFS">
+    <part xmlns:ns83="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns83:MODIFYACCLASSTFR_FSFS_REQ" />
+  </message>
+  <message name="ModifyAcClassTfrFSResponse">
+    <part xmlns:ns84="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns84:MODIFYACCLASSTFR_FSFS_RES" />
+  </message>
+  <message name="ModifyAcClassTfrIO">
+    <part xmlns:ns85="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns85:MODIFYACCLASSTFR_IOPK_REQ" />
+  </message>
+  <message name="ModifyAcClassTfrIOResponse">
+    <part xmlns:ns86="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns86:MODIFYACCLASSTFR_IOPK_RES" />
+  </message>
+  <message name="ModifyCheckBookFS">
+    <part xmlns:ns87="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns87:MODIFYCHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="ModifyCheckBookFSResponse">
+    <part xmlns:ns88="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns88:MODIFYCHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="ModifyCheckBookIO">
+    <part xmlns:ns89="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns89:MODIFYCHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="ModifyCheckBookIOResponse">
+    <part xmlns:ns90="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns90:MODIFYCHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="ModifyCustAccFS">
+    <part xmlns:ns91="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns91:MODIFYCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="ModifyCustAccFSResponse">
+    <part xmlns:ns92="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns92:MODIFYCUSTACC_FSFS_RES" />
+  </message>
+  <message name="ModifyCustAccIO">
+    <part xmlns:ns93="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns93:MODIFYCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="ModifyCustAccIOResponse">
+    <part xmlns:ns94="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns94:MODIFYCUSTACC_IOPK_RES" />
+  </message>
+  <message name="ModifyStopPaymentsFS">
+    <part xmlns:ns95="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns95:MODIFYSTOPPAYMENTS_FSFS_REQ" />
+  </message>
+  <message name="ModifyStopPaymentsFSResponse">
+    <part xmlns:ns96="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns96:MODIFYSTOPPAYMENTS_FSFS_RES" />
+  </message>
+  <message name="ModifyStopPaymentsIO">
+    <part xmlns:ns97="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns97:MODIFYSTOPPAYMENTS_IOPK_REQ" />
+  </message>
+  <message name="ModifyStopPaymentsIOResponse">
+    <part xmlns:ns98="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns98:MODIFYSTOPPAYMENTS_IOPK_RES" />
+  </message>
+  <message name="ModifyTDCustAccFS">
+    <part xmlns:ns99="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns99:MODIFYTDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="ModifyTDCustAccFSResponse">
+    <part xmlns:ns100="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns100:MODIFYTDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="ModifyTDCustAccIO">
+    <part xmlns:ns101="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns101:MODIFYTDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="ModifyTDCustAccIOResponse">
+    <part xmlns:ns102="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns102:MODIFYTDCUSTACC_IOPK_RES" />
+  </message>
+  <message name="QueryAcClassTfrIO">
+    <part xmlns:ns103="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns103:QUERYACCLASSTFR_IOFS_REQ" />
+  </message>
+  <message name="QueryAcClassTfrIOResponse">
+    <part xmlns:ns104="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns104:QUERYACCLASSTFR_IOFS_RES" />
+  </message>
+  <message name="QueryAccBalIO">
+    <part xmlns:ns105="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns105:QUERYACCBAL_IOFS_REQ" />
+  </message>
+  <message name="QueryAccBalIOResponse">
+    <part xmlns:ns106="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns106:QUERYACCBAL_IOFS_RES" />
+  </message>
+  <message name="QueryAccSummIO">
+    <part xmlns:ns107="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns107:QUERYACCSUMM_IOFS_REQ" />
+  </message>
+  <message name="QueryAccSummIOResponse">
+    <part xmlns:ns108="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns108:QUERYACCSUMM_IOFS_RES" />
+  </message>
+  <message name="QueryCheckBookIO">
+    <part xmlns:ns109="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns109:QUERYCHECKBOOK_IOFS_REQ" />
+  </message>
+  <message name="QueryCheckBookIOResponse">
+    <part xmlns:ns110="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns110:QUERYCHECKBOOK_IOFS_RES" />
+  </message>
+  <message name="QueryCustAccIO">
+    <part xmlns:ns111="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns111:QUERYCUSTACC_IOFS_REQ" />
+  </message>
+  <message name="QueryCustAccIOResponse">
+    <part xmlns:ns112="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns112:QUERYCUSTACC_IOFS_RES" />
+  </message>
+  <message name="QueryGenAdviceIO">
+    <part xmlns:ns113="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns113:QUERYGENADVICE_IOFS_REQ" />
+  </message>
+  <message name="QueryGenAdviceIOResponse">
+    <part xmlns:ns114="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns114:QUERYGENADVICE_IOFS_RES" />
+  </message>
+  <message name="QueryStopPaymentsIO">
+    <part xmlns:ns115="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns115:QUERYSTOPPAYMENTS_IOFS_REQ" />
+  </message>
+  <message name="QueryStopPaymentsIOResponse">
+    <part xmlns:ns116="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns116:QUERYSTOPPAYMENTS_IOFS_RES" />
+  </message>
+  <message name="QueryTDCustAccIO">
+    <part xmlns:ns117="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns117:QUERYTDCUSTACC_IOFS_REQ" />
+  </message>
+  <message name="QueryTDCustAccIOResponse">
+    <part xmlns:ns118="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns118:QUERYTDCUSTACC_IOFS_RES" />
+  </message>
+  <message name="QuerycustAccountDetailsIO">
+    <part xmlns:ns119="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns119:QUERYCUSTACCOUNTDETAILS_IOFS_REQ" />
+  </message>
+  <message name="QuerycustAccountDetailsIOResponse">
+    <part xmlns:ns120="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns120:QUERYCUSTACCOUNTDETAILS_IOFS_RES" />
+  </message>
+  <message name="ReopenCheckBookFS">
+    <part xmlns:ns121="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns121:REOPENCHECKBOOK_FSFS_REQ" />
+  </message>
+  <message name="ReopenCheckBookFSResponse">
+    <part xmlns:ns122="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns122:REOPENCHECKBOOK_FSFS_RES" />
+  </message>
+  <message name="ReopenCheckBookIO">
+    <part xmlns:ns123="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns123:REOPENCHECKBOOK_IOPK_REQ" />
+  </message>
+  <message name="ReopenCheckBookIOResponse">
+    <part xmlns:ns124="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns124:REOPENCHECKBOOK_IOPK_RES" />
+  </message>
+  <message name="ReopenCustAccFS">
+    <part xmlns:ns125="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns125:REOPENCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="ReopenCustAccFSResponse">
+    <part xmlns:ns126="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns126:REOPENCUSTACC_FSFS_RES" />
+  </message>
+  <message name="ReopenCustAccIO">
+    <part xmlns:ns127="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns127:REOPENCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="ReopenCustAccIOResponse">
+    <part xmlns:ns128="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns128:REOPENCUSTACC_IOPK_RES" />
+  </message>
+  <message name="ReopenTDCustAccFS">
+    <part xmlns:ns129="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns129:REOPENTDCUSTACC_FSFS_REQ" />
+  </message>
+  <message name="ReopenTDCustAccFSResponse">
+    <part xmlns:ns130="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns130:REOPENTDCUSTACC_FSFS_RES" />
+  </message>
+  <message name="ReopenTDCustAccIO">
+    <part xmlns:ns131="http://fcubs.ofss.com/service/FCUBSAccService" name="RequestMsg" element="ns131:REOPENTDCUSTACC_IOPK_REQ" />
+  </message>
+  <message name="ReopenTDCustAccIOResponse">
+    <part xmlns:ns132="http://fcubs.ofss.com/service/FCUBSAccService" name="ResponseMsg" element="ns132:REOPENTDCUSTACC_IOPK_RES" />
+  </message>
+  <portType name="FCUBSAccServiceSEI">
+    <operation name="AuthorizeAcClassTfrFS">
+      <input message="tns:AuthorizeAcClassTfrFS" />
+      <output message="tns:AuthorizeAcClassTfrFSResponse" />
+    </operation>
+    <operation name="AuthorizeAcClassTfrIO">
+      <input message="tns:AuthorizeAcClassTfrIO" />
+      <output message="tns:AuthorizeAcClassTfrIOResponse" />
+    </operation>
+    <operation name="AuthorizeCheckBookFS">
+      <input message="tns:AuthorizeCheckBookFS" />
+      <output message="tns:AuthorizeCheckBookFSResponse" />
+    </operation>
+    <operation name="AuthorizeCheckBookIO">
+      <input message="tns:AuthorizeCheckBookIO" />
+      <output message="tns:AuthorizeCheckBookIOResponse" />
+    </operation>
+    <operation name="AuthorizeCustAccFS">
+      <input message="tns:AuthorizeCustAccFS" />
+      <output message="tns:AuthorizeCustAccFSResponse" />
+    </operation>
+    <operation name="AuthorizeCustAccIO">
+      <input message="tns:AuthorizeCustAccIO" />
+      <output message="tns:AuthorizeCustAccIOResponse" />
+    </operation>
+    <operation name="AuthorizeStopPaymentsFS">
+      <input message="tns:AuthorizeStopPaymentsFS" />
+      <output message="tns:AuthorizeStopPaymentsFSResponse" />
+    </operation>
+    <operation name="AuthorizeStopPaymentsIO">
+      <input message="tns:AuthorizeStopPaymentsIO" />
+      <output message="tns:AuthorizeStopPaymentsIOResponse" />
+    </operation>
+    <operation name="AuthorizeTDCustAccFS">
+      <input message="tns:AuthorizeTDCustAccFS" />
+      <output message="tns:AuthorizeTDCustAccFSResponse" />
+    </operation>
+    <operation name="AuthorizeTDCustAccIO">
+      <input message="tns:AuthorizeTDCustAccIO" />
+      <output message="tns:AuthorizeTDCustAccIOResponse" />
+    </operation>
+    <operation name="CheckDetailsQueryIO">
+      <input message="tns:CheckDetailsQueryIO" />
+      <output message="tns:CheckDetailsQueryIOResponse" />
+    </operation>
+    <operation name="CloseCheckBookFS">
+      <input message="tns:CloseCheckBookFS" />
+      <output message="tns:CloseCheckBookFSResponse" />
+    </operation>
+    <operation name="CloseCheckBookIO">
+      <input message="tns:CloseCheckBookIO" />
+      <output message="tns:CloseCheckBookIOResponse" />
+    </operation>
+    <operation name="CloseCustAccFS">
+      <input message="tns:CloseCustAccFS" />
+      <output message="tns:CloseCustAccFSResponse" />
+    </operation>
+    <operation name="CloseCustAccIO">
+      <input message="tns:CloseCustAccIO" />
+      <output message="tns:CloseCustAccIOResponse" />
+    </operation>
+    <operation name="CloseStopPaymentsFS">
+      <input message="tns:CloseStopPaymentsFS" />
+      <output message="tns:CloseStopPaymentsFSResponse" />
+    </operation>
+    <operation name="CloseStopPaymentsIO">
+      <input message="tns:CloseStopPaymentsIO" />
+      <output message="tns:CloseStopPaymentsIOResponse" />
+    </operation>
+    <operation name="CloseTDCustAccFS">
+      <input message="tns:CloseTDCustAccFS" />
+      <output message="tns:CloseTDCustAccFSResponse" />
+    </operation>
+    <operation name="CloseTDCustAccIO">
+      <input message="tns:CloseTDCustAccIO" />
+      <output message="tns:CloseTDCustAccIOResponse" />
+    </operation>
+    <operation name="CreateAcClassTfrFS">
+      <input message="tns:CreateAcClassTfrFS" />
+      <output message="tns:CreateAcClassTfrFSResponse" />
+    </operation>
+    <operation name="CreateAcClassTfrIO">
+      <input message="tns:CreateAcClassTfrIO" />
+      <output message="tns:CreateAcClassTfrIOResponse" />
+    </operation>
+    <operation name="CreateCheckBookFS">
+      <input message="tns:CreateCheckBookFS" />
+      <output message="tns:CreateCheckBookFSResponse" />
+    </operation>
+    <operation name="CreateCheckBookIO">
+      <input message="tns:CreateCheckBookIO" />
+      <output message="tns:CreateCheckBookIOResponse" />
+    </operation>
+    <operation name="CreateCustAccFS">
+      <input message="tns:CreateCustAccFS" />
+      <output message="tns:CreateCustAccFSResponse" />
+    </operation>
+    <operation name="CreateCustAccIO">
+      <input message="tns:CreateCustAccIO" />
+      <output message="tns:CreateCustAccIOResponse" />
+    </operation>
+    <operation name="CreateStopPaymentsFS">
+      <input message="tns:CreateStopPaymentsFS" />
+      <output message="tns:CreateStopPaymentsFSResponse" />
+    </operation>
+    <operation name="CreateStopPaymentsIO">
+      <input message="tns:CreateStopPaymentsIO" />
+      <output message="tns:CreateStopPaymentsIOResponse" />
+    </operation>
+    <operation name="CreateTDCustAccFS">
+      <input message="tns:CreateTDCustAccFS" />
+      <output message="tns:CreateTDCustAccFSResponse" />
+    </operation>
+    <operation name="CreateTDCustAccIO">
+      <input message="tns:CreateTDCustAccIO" />
+      <output message="tns:CreateTDCustAccIOResponse" />
+    </operation>
+    <operation name="CreateTDSimFS">
+      <input message="tns:CreateTDSimFS" />
+      <output message="tns:CreateTDSimFSResponse" />
+    </operation>
+    <operation name="CreateTDSimIO">
+      <input message="tns:CreateTDSimIO" />
+      <output message="tns:CreateTDSimIOResponse" />
+    </operation>
+    <operation name="DeleteAcClassTfrFS">
+      <input message="tns:DeleteAcClassTfrFS" />
+      <output message="tns:DeleteAcClassTfrFSResponse" />
+    </operation>
+    <operation name="DeleteAcClassTfrIO">
+      <input message="tns:DeleteAcClassTfrIO" />
+      <output message="tns:DeleteAcClassTfrIOResponse" />
+    </operation>
+    <operation name="DeleteCheckBookFS">
+      <input message="tns:DeleteCheckBookFS" />
+      <output message="tns:DeleteCheckBookFSResponse" />
+    </operation>
+    <operation name="DeleteCheckBookIO">
+      <input message="tns:DeleteCheckBookIO" />
+      <output message="tns:DeleteCheckBookIOResponse" />
+    </operation>
+    <operation name="DeleteCustAccFS">
+      <input message="tns:DeleteCustAccFS" />
+      <output message="tns:DeleteCustAccFSResponse" />
+    </operation>
+    <operation name="DeleteCustAccIO">
+      <input message="tns:DeleteCustAccIO" />
+      <output message="tns:DeleteCustAccIOResponse" />
+    </operation>
+    <operation name="DeleteStopPaymentsFS">
+      <input message="tns:DeleteStopPaymentsFS" />
+      <output message="tns:DeleteStopPaymentsFSResponse" />
+    </operation>
+    <operation name="DeleteStopPaymentsIO">
+      <input message="tns:DeleteStopPaymentsIO" />
+      <output message="tns:DeleteStopPaymentsIOResponse" />
+    </operation>
+    <operation name="DeleteTDCustAccFS">
+      <input message="tns:DeleteTDCustAccFS" />
+      <output message="tns:DeleteTDCustAccFSResponse" />
+    </operation>
+    <operation name="DeleteTDCustAccIO">
+      <input message="tns:DeleteTDCustAccIO" />
+      <output message="tns:DeleteTDCustAccIOResponse" />
+    </operation>
+    <operation name="ModifyAcClassTfrFS">
+      <input message="tns:ModifyAcClassTfrFS" />
+      <output message="tns:ModifyAcClassTfrFSResponse" />
+    </operation>
+    <operation name="ModifyAcClassTfrIO">
+      <input message="tns:ModifyAcClassTfrIO" />
+      <output message="tns:ModifyAcClassTfrIOResponse" />
+    </operation>
+    <operation name="ModifyCheckBookFS">
+      <input message="tns:ModifyCheckBookFS" />
+      <output message="tns:ModifyCheckBookFSResponse" />
+    </operation>
+    <operation name="ModifyCheckBookIO">
+      <input message="tns:ModifyCheckBookIO" />
+      <output message="tns:ModifyCheckBookIOResponse" />
+    </operation>
+    <operation name="ModifyCustAccFS">
+      <input message="tns:ModifyCustAccFS" />
+      <output message="tns:ModifyCustAccFSResponse" />
+    </operation>
+    <operation name="ModifyCustAccIO">
+      <input message="tns:ModifyCustAccIO" />
+      <output message="tns:ModifyCustAccIOResponse" />
+    </operation>
+    <operation name="ModifyStopPaymentsFS">
+      <input message="tns:ModifyStopPaymentsFS" />
+      <output message="tns:ModifyStopPaymentsFSResponse" />
+    </operation>
+    <operation name="ModifyStopPaymentsIO">
+      <input message="tns:ModifyStopPaymentsIO" />
+      <output message="tns:ModifyStopPaymentsIOResponse" />
+    </operation>
+    <operation name="ModifyTDCustAccFS">
+      <input message="tns:ModifyTDCustAccFS" />
+      <output message="tns:ModifyTDCustAccFSResponse" />
+    </operation>
+    <operation name="ModifyTDCustAccIO">
+      <input message="tns:ModifyTDCustAccIO" />
+      <output message="tns:ModifyTDCustAccIOResponse" />
+    </operation>
+    <operation name="QueryAcClassTfrIO">
+      <input message="tns:QueryAcClassTfrIO" />
+      <output message="tns:QueryAcClassTfrIOResponse" />
+    </operation>
+    <operation name="QueryAccBalIO">
+      <input message="tns:QueryAccBalIO" />
+      <output message="tns:QueryAccBalIOResponse" />
+    </operation>
+    <operation name="QueryAccSummIO">
+      <input message="tns:QueryAccSummIO" />
+      <output message="tns:QueryAccSummIOResponse" />
+    </operation>
+    <operation name="QueryCheckBookIO">
+      <input message="tns:QueryCheckBookIO" />
+      <output message="tns:QueryCheckBookIOResponse" />
+    </operation>
+    <operation name="QueryCustAccIO">
+      <input message="tns:QueryCustAccIO" />
+      <output message="tns:QueryCustAccIOResponse" />
+    </operation>
+    <operation name="QueryGenAdviceIO">
+      <input message="tns:QueryGenAdviceIO" />
+      <output message="tns:QueryGenAdviceIOResponse" />
+    </operation>
+    <operation name="QueryStopPaymentsIO">
+      <input message="tns:QueryStopPaymentsIO" />
+      <output message="tns:QueryStopPaymentsIOResponse" />
+    </operation>
+    <operation name="QueryTDCustAccIO">
+      <input message="tns:QueryTDCustAccIO" />
+      <output message="tns:QueryTDCustAccIOResponse" />
+    </operation>
+    <operation name="QuerycustAccountDetailsIO">
+      <input message="tns:QuerycustAccountDetailsIO" />
+      <output message="tns:QuerycustAccountDetailsIOResponse" />
+    </operation>
+    <operation name="ReopenCheckBookFS">
+      <input message="tns:ReopenCheckBookFS" />
+      <output message="tns:ReopenCheckBookFSResponse" />
+    </operation>
+    <operation name="ReopenCheckBookIO">
+      <input message="tns:ReopenCheckBookIO" />
+      <output message="tns:ReopenCheckBookIOResponse" />
+    </operation>
+    <operation name="ReopenCustAccFS">
+      <input message="tns:ReopenCustAccFS" />
+      <output message="tns:ReopenCustAccFSResponse" />
+    </operation>
+    <operation name="ReopenCustAccIO">
+      <input message="tns:ReopenCustAccIO" />
+      <output message="tns:ReopenCustAccIOResponse" />
+    </operation>
+    <operation name="ReopenTDCustAccFS">
+      <input message="tns:ReopenTDCustAccFS" />
+      <output message="tns:ReopenTDCustAccFSResponse" />
+    </operation>
+    <operation name="ReopenTDCustAccIO">
+      <input message="tns:ReopenTDCustAccIO" />
+      <output message="tns:ReopenTDCustAccIOResponse" />
+    </operation>
+  </portType>
+  <binding name="FCUBSAccServiceSEIBinding" type="tns:FCUBSAccServiceSEI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="AuthorizeAcClassTfrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeAcClassTfrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeStopPaymentsFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="AuthorizeTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CheckDetailsQueryIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseStopPaymentsFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CloseTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateAcClassTfrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateAcClassTfrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateStopPaymentsFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateTDSimFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="CreateTDSimIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteAcClassTfrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteAcClassTfrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteStopPaymentsFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="DeleteTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyAcClassTfrFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyAcClassTfrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyStopPaymentsFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ModifyTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryAcClassTfrIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryAccBalIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryAccSummIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryGenAdviceIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryStopPaymentsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QueryTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="QuerycustAccountDetailsIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenCheckBookFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenCheckBookIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenTDCustAccFS">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="ReopenTDCustAccIO">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FCUBSAccService">
+    <port name="FCUBSAccServiceSEI" binding="tns:FCUBSAccServiceSEIBinding">
+      <soap:address location="http://172.17.250.15:7070/FCUBSAccService/FCUBSAccService" />
+    </port>
+  </service>
+</definitions>
