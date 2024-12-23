@@ -18,7 +18,7 @@ jobs:
     - name: Set up .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '4.5'  # Specify your version (e.g., 5.0, 6.0, etc.)
+        dotnet-version: '6.0'  # Specify your version (e.g., 5.0, 6.0, etc.)
 
     # Step 3: Restore the project dependencies
     - name: Restore dependencies
