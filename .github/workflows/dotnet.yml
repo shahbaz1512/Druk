@@ -1,28 +1,51 @@
-# This workflow will build a .NET project
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
-
-name: .NET
+name: CI/CD for .NET App to IIS
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main  # Change this to your branch name if it's not 'main'
 
 jobs:
-  build:
-
-    runs-on: windows-latest
-
+  deploy:
+    runs-on: windows-latest  # Runs the job on a Windows runner
+    
     steps:
-    - uses: actions/checkout@v4
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
+    # Step 1: Check out the repository
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Step 2: Set up .NET SDK (for .NET Core/ASP.NET Core)
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: 8.0.x
+        dotnet-version: '4.5'  # Specify your version (e.g., 5.0, 6.0, etc.)
+
+    # Step 3: Restore the project dependencies
     - name: Restore dependencies
       run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+
+    # Step 4: Publish the application (This creates the build output)
+    - name: Publish the application
+      run: |
+        dotnet publish -c Release -o C:\PublishFolder
+
+    # Step 5: Set up SSH for deploying to IIS (use SSH keys for secure connection)
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}  # Make sure you add SSH_PRIVATE_KEY to your GitHub Secrets
+
+    # Step 6: Deploy the build output to IIS
+    - name: Deploy to IIS
+      run: |
+        # Copy the published files to IIS (adjust the path to your actual IIS directory)
+        scp -r C:\PublishFolder/* shahbaz.khan@localhost:C:/inetpub/wwwroot/Druk
+        # Optionally restart IIS to apply changes
+        ssh -o StrictHostKeyChecking=no shahbaz.khan@localhost "iisreset"
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    # Step 7: Optionally, you can check if IIS is running fine or log any messages
+    - name: Verify IIS is running
+      run: |
+        ssh shahbaz.khan@localhost "echo IIS is up and running!"
