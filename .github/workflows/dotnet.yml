@@ -3,49 +3,38 @@ name: CI/CD for .NET App to IIS
 on:
   push:
     branches:
-      - main  # Change this to your branch name if it's not 'main'
+      - main  # Or specify your branch name
 
 jobs:
   deploy:
-    runs-on: windows-latest  # Runs the job on a Windows runner
+    runs-on: windows-latest  # Use a Windows runner
     
     steps:
-    # Step 1: Check out the repository
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    # Step 2: Set up .NET SDK (for .NET Core/ASP.NET Core)
-    - name: Set up .NET
+    - name: Set up .NET 6.0 SDK
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '6.0'  # Specify your version (e.g., 5.0, 6.0, etc.)
+        dotnet-version: '6.0'  # Use .NET 6.0 or higher
 
-    # Step 3: Restore the project dependencies
+    - name: Install Visual Studio Build Tools
+      run: |
+        choco install visualstudio2019buildtools --package-parameters "--add Microsoft.VisualStudio.Workload.WebDevelopment"
+
     - name: Restore dependencies
       run: dotnet restore
 
-    # Step 4: Publish the application (This creates the build output)
     - name: Publish the application
       run: |
         dotnet publish -c Release -o C:\PublishFolder
 
-    # Step 5: Set up SSH for deploying to IIS (use SSH keys for secure connection)
     - name: Set up SSH
       uses: webfactory/ssh-agent@v0.5.3
       with:
-        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}  # Make sure you add SSH_PRIVATE_KEY to your GitHub Secrets
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-    # Step 6: Deploy the build output to IIS
     - name: Deploy to IIS
       run: |
-        # Copy the published files to IIS (adjust the path to your actual IIS directory)
         scp -r C:\PublishFolder/* shahbaz.khan@localhost:C:/inetpub/wwwroot/Druk
-        # Optionally restart IIS to apply changes
         ssh -o StrictHostKeyChecking=no shahbaz.khan@localhost "iisreset"
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-
-    # Step 7: Optionally, you can check if IIS is running fine or log any messages
-    - name: Verify IIS is running
-      run: |
-        ssh shahbaz.khan@localhost "echo IIS is up and running!"
